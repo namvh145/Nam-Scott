@@ -1,0 +1,674 @@
+[
+  {
+    "name": "Soraya Lester",
+    "school": "University of Cape Town",
+    "publications": 3,
+    "citations": 37,
+    "description": null,
+    "skills": [
+      "Child Development",
+      "Youth Development",
+      "School Psychology",
+      "Violence Prevention"
+    ]
+  },
+  {
+    "name": "Kimmie Hoang",
+    "school": "Gustavus Adolphus College",
+    "publications": 0,
+    "citations": 0,
+    "description": null,
+    "skills": []
+  },
+  {
+    "name": "Matilde Holen",
+    "school": "Norwegian University of Life Sciences (NMBU)",
+    "publications": 6,
+    "citations": 40,
+    "description": null,
+    "skills": []
+  },
+  {
+    "name": "Huyen Doan",
+    "school": null,
+    "publications": 0,
+    "citations": 0,
+    "description": null,
+    "skills": []
+  },
+  {
+    "name": "Nguyen Dang Thuy",
+    "school": null,
+    "publications": 18,
+    "citations": 68,
+    "description": null,
+    "skills": [
+      "Microstructure",
+      "Material Characterization",
+      "Materials Processing",
+      "Materials",
+      "Advanced Materials",
+      "Mechanical Properties",
+      "Material Characteristics",
+      "Nanomaterials",
+      "Mechanical Behavior of Materials",
+      "Mechanical Testing"
+    ]
+  },
+  {
+    "name": "Maria Doan",
+    "school": "Aarhus University",
+    "publications": 0,
+    "citations": 0,
+    "description": null,
+    "skills": []
+  },
+  {
+    "name": "bushra fazal Minhas",
+    "school": "University of Illinois, Urbana-Champaign",
+    "publications": 11,
+    "citations": 25,
+    "description": null,
+    "skills": [
+      "Phylogenetic Analysis",
+      "PCR",
+      "Comparative Genomics",
+      "Bioinformatics",
+      "Quantitative Gene Regulation",
+      "Human Genetics",
+      "Bioinformatics and Computational Biology",
+      "Transcriptome",
+      "Genome Sequencing",
+      "Transcription Factors"
+    ]
+  },
+  {
+    "name": "Diem Doan",
+    "school": "Hanoi University",
+    "publications": 0,
+    "citations": 0,
+    "description": null,
+    "skills": [
+      "Leadership",
+      "Management",
+      "Human Resource Management",
+      "Business",
+      "Entrepreneurship",
+      "Change Management",
+      "Strategic Analysis",
+      "Organizational Culture",
+      "Strategic Thinking",
+      "Organizational Learning"
+    ]
+  },
+  {
+    "name": "Nguyen Ngoc Giang",
+    "school": "Université de la Sorbonne Nouvelle Paris 3",
+    "publications": 0,
+    "citations": 0,
+    "description": null,
+    "skills": []
+  },
+  {
+    "name": "Vy Thanh",
+    "school": null,
+    "publications": 0,
+    "citations": 0,
+    "description": null,
+    "skills": []
+  },
+  {
+    "name": "Jason Ngo",
+    "school": "Portland State University",
+    "publications": 0,
+    "citations": 0,
+    "description": null,
+    "skills": [
+      "Cancer Biology"
+    ]
+  },
+  {
+    "name": "Le Khanh Dien",
+    "school": "Ho Chi Minh City University of Technology (HCMUT)",
+    "publications": 9,
+    "citations": 1,
+    "description": null,
+    "skills": [
+      "Materials",
+      "Microstructure",
+      "Mechanical Properties"
+    ]
+  },
+  {
+    "name": "Teresia Ngonjo",
+    "school": null,
+    "publications": 1,
+    "citations": 10,
+    "description": null,
+    "skills": []
+  },
+  {
+    "name": "Willie Ngosa",
+    "school": "The Copperbelt University",
+    "publications": 1,
+    "citations": 0,
+    "description": null,
+    "skills": [
+      "Digital Signal Processing",
+      "Signal Processing",
+      "Signal Analysis",
+      "Discrete Signal Processing",
+      "Discrete-Time Signal Processing",
+      "GSM"
+    ]
+  },
+  {
+    "name": "Khanh Ngo",
+    "school": "Aalto University",
+    "publications": 0,
+    "citations": 0,
+    "description": null,
+    "skills": []
+  },
+  {
+    "name": "My Ngo-Le",
+    "school": "Université de Montréal",
+    "publications": 0,
+    "citations": 0,
+    "description": null,
+    "skills": []
+  },
+  {
+    "name": "Jack Doane",
+    "school": "Woodward Academy",
+    "publications": 0,
+    "citations": 0,
+    "description": null,
+    "skills": []
+  },
+  {
+    "name": "Obi Immaculata Ngozi",
+    "school": "Enugu State University of Science and Technology",
+    "publications": 0,
+    "citations": 0,
+    "description": null,
+    "skills": [
+      "Teaching and Learning"
+    ]
+  },
+  {
+    "name": "Vu Pham",
+    "school": "TAFE NSW",
+    "publications": 0,
+    "citations": 0,
+    "description": null,
+    "skills": [
+      "Early Childhood Education",
+      "Cognitive Development"
+    ]
+  },
+  {
+    "name": "Jasmine Pham",
+    "school": "Laurentian University",
+    "publications": 0,
+    "citations": 0,
+    "description": null,
+    "skills": []
+  },
+  {
+    "name": "Minh Duc Pham",
+    "school": "University of Trieste",
+    "publications": 0,
+    "citations": 0,
+    "description": null,
+    "skills": [
+      "Operations Management",
+      "SCM",
+      "Production/Operations Management",
+      "Production Planning",
+      "Optimization",
+      "Lean Manufacturing",
+      "Inventory Management",
+      "Production Management",
+      "Industrial Management",
+      "Quality Management"
+    ]
+  },
+  {
+    "name": "Đỗ Võ Anh Khoa",
+    "school": "Can Tho University",
+    "publications": 40,
+    "citations": 76,
+    "description": "Do Vo Anh Khoa earned his doctoral degree from the University of Bonn. He is interested in livestock breeding and selection for immune responsiveness and disease resistance, animal health and welfare as well as meat quality, especially in pigs and chickens.",
+    "skills": [
+      "Phylogenetic Analysis",
+      "Genetic Analysis",
+      "PRRS"
+    ]
+  },
+  {
+    "name": "Emma Pham",
+    "school": "University of Economics Ho Chi Minh City",
+    "publications": 0,
+    "citations": 0,
+    "description": null,
+    "skills": []
+  },
+  {
+    "name": "Tung Pham",
+    "school": "Hanoi University of Science and Technology",
+    "publications": 2,
+    "citations": 1,
+    "description": null,
+    "skills": [
+      "Fluid Mechanics",
+      "Aeronautics",
+      "CFD Simulation",
+      "Computational Simulation"
+    ]
+  },
+  {
+    "name": "Dung A Pham",
+    "school": "University of Massachusetts Lowell",
+    "publications": 0,
+    "citations": 0,
+    "description": null,
+    "skills": [
+      "Electrical & Electronics Engineering"
+    ]
+  },
+  {
+    "name": "Rad Thiruselvam",
+    "school": "Nanyang Polytechnic",
+    "publications": 0,
+    "citations": 0,
+    "description": null,
+    "skills": []
+  },
+  {
+    "name": "Quentin Pham",
+    "school": "University of Birmingham",
+    "publications": 0,
+    "citations": 0,
+    "description": null,
+    "skills": [
+      "Mechanical Properties",
+      "Materials",
+      "Mechanical Testing",
+      "Materials Processing",
+      "Material Characterization",
+      "Materials Testing",
+      "Mechanics of Materials",
+      "Metals",
+      "Mechanical Behavior of Materials",
+      "Material Characteristics"
+    ]
+  },
+  {
+    "name": "Khoa Pham",
+    "school": "Ho Chi Minh City International University",
+    "publications": 1,
+    "citations": 0,
+    "description": null,
+    "skills": [
+      "Management",
+      "Strategic Management",
+      "Leadership",
+      "Strategic Planning",
+      "Human Resource Management",
+      "Business Development",
+      "Marketing Management",
+      "Project Management",
+      "Strategic Analysis",
+      "International Business"
+    ]
+  },
+  {
+    "name": "Lukas Thiee",
+    "school": "Leuphana University Lüneburg",
+    "publications": 0,
+    "citations": 0,
+    "description": null,
+    "skills": [
+      "Production/Operations Management"
+    ]
+  },
+  {
+    "name": "Alexis Phama",
+    "school": "Allegheny College",
+    "publications": 0,
+    "citations": 0,
+    "description": null,
+    "skills": []
+  },
+  {
+    "name": "Mau Dung Nguyen",
+    "school": "Vietnam National University of Agriculture",
+    "publications": 25,
+    "citations": 35,
+    "description": null,
+    "skills": [
+      "Sustainable Development",
+      "Environmental Management",
+      "Natural Resource Management"
+    ]
+  },
+  {
+    "name": "Vuong Kieu Minh",
+    "school": "Can Tho University",
+    "publications": 0,
+    "citations": 0,
+    "description": null,
+    "skills": [
+      "Food Science and Technology"
+    ]
+  },
+  {
+    "name": "Tyler Nguyen",
+    "school": "University of the Arts London",
+    "publications": 0,
+    "citations": 0,
+    "description": null,
+    "skills": []
+  },
+  {
+    "name": "Hang Nguyen",
+    "school": "Hanoi University of Mining and Geology",
+    "publications": 0,
+    "citations": 0,
+    "description": null,
+    "skills": [
+      "Financial Analysis",
+      "Financial Accounting"
+    ]
+  },
+  {
+    "name": "Anh Tuan Nguyen",
+    "school": "Hochschule für Technik und Wirtschaft Berlin",
+    "publications": 0,
+    "citations": 0,
+    "description": null,
+    "skills": [
+      "Marketing Management",
+      "Strategic Management",
+      "Business"
+    ]
+  },
+  {
+    "name": "Phuong Pham Thi Dan",
+    "school": "Nha Trang University",
+    "publications": 5,
+    "citations": 38,
+    "description": "Phuong Pham Thi Dan currently works at the Quality assurance and Food safety - Faculty of Food Technology, Nha Trang University. Phuong does research in Biochemistry and Biotechnology. Their current project is 'Recovery of protein hydrolysate and chitosan from black tiger shrimp (Penaeus monodon) heads: approaching a zero waste process'.",
+    "skills": [
+      "Food Safety",
+      "Food Science and Technology",
+      "Chitosan",
+      "Food Quality"
+    ]
+  },
+  {
+    "name": "Loan Nguyen",
+    "school": "Madonna University",
+    "publications": 0,
+    "citations": 0,
+    "description": null,
+    "skills": [
+      "Neurobiology"
+    ]
+  },
+  {
+    "name": "Issa Isaac Ngom",
+    "school": "Aix-Marseille Université",
+    "publications": 1,
+    "citations": 0,
+    "description": null,
+    "skills": [
+      "Gel Electrophoresis",
+      "SDS-PAGE",
+      "Microbial  Molecular Biology",
+      "PCR",
+      "Bacterial Cell Culture"
+    ]
+  },
+  {
+    "name": "Rossana M. S. M. Thiré",
+    "school": "Federal University of Rio de Janeiro",
+    "publications": 62,
+    "citations": 735,
+    "description": "The research of my group is focused on the development of materials based on natural or synthetic polymers for application in dental, medical, agricultural and food packaging areas. Special attention is given to biodegradable polymers, materials derived from agroindustrial wastes and natural extracts. Methods and techniques: Extrusion-based 3d printing  and bioprinting, electrospinning, blow spinning, drug delivery, morphological, physical and chemical characterization of polymeric materials.",
+    "skills": [
+      "Biomaterials",
+      "Biomaterial Engineering",
+      "Tissue Engineering",
+      "Nanomaterials",
+      "Material Characterization",
+      "Polymeric Materials",
+      "Polymer Science",
+      "X-ray Diffraction",
+      "Additive Manufacturing",
+      "Materials Engineering"
+    ]
+  },
+  {
+    "name": "Vu Nguyen",
+    "school": "The University of Northampton",
+    "publications": 0,
+    "citations": 0,
+    "description": null,
+    "skills": [
+      "Java Programming",
+      "Software Development",
+      "Object-Oriented Programming",
+      "Web Development",
+      "SQL",
+      "Java Language",
+      "Software Programming",
+      "HTML code programming",
+      "SQL Programming",
+      "Database Programming"
+    ]
+  },
+  {
+    "name": "Hiep Pham",
+    "school": "Pham Ngoc Thach University of Medicine",
+    "publications": 0,
+    "citations": 0,
+    "description": null,
+    "skills": []
+  },
+  {
+    "name": "Mai Nhat Anh",
+    "school": "Foreign Trade University",
+    "publications": 0,
+    "citations": 0,
+    "description": null,
+    "skills": [
+      "International Business"
+    ]
+  },
+  {
+    "name": "Nha Ca Nguyen",
+    "school": "Ho Chi Minh City International University",
+    "publications": 0,
+    "citations": 0,
+    "description": null,
+    "skills": []
+  },
+  {
+    "name": "Shauna Nguyen",
+    "school": "Texas Woman's University",
+    "publications": 0,
+    "citations": 0,
+    "description": null,
+    "skills": []
+  },
+  {
+    "name": "Carlo Nguyen",
+    "school": "Singapore University of Technology and Design",
+    "publications": 0,
+    "citations": 0,
+    "description": null,
+    "skills": [
+      "Security",
+      "Information Security",
+      "Network Security",
+      "Cyber Security"
+    ]
+  },
+  {
+    "name": "Lan Nguyen",
+    "school": "Tomas Bata University in Zlín",
+    "publications": 2,
+    "citations": 0,
+    "description": null,
+    "skills": [
+      "Management",
+      "Strategic Management",
+      "Business",
+      "Leadership",
+      "Human Resource Management"
+    ]
+  },
+  {
+    "name": "Le ha Nguyen",
+    "school": "Diplomatic Academy of Vietnam",
+    "publications": 0,
+    "citations": 0,
+    "description": null,
+    "skills": [
+      "International Relations Theory",
+      "International Politics",
+      "Diplomacy",
+      "Peace & Conflict Studies",
+      "International Cooperation",
+      "Global Studies",
+      "Global Governance",
+      "Global Governance and Regionalism"
+    ]
+  },
+  {
+    "name": "Hanh Nguyen",
+    "school": "The University of Sheffield",
+    "publications": 0,
+    "citations": 0,
+    "description": null,
+    "skills": [
+      "Financial Analysis",
+      "Corporate Finance",
+      "Finance",
+      "Economic Development",
+      "International Business",
+      "Investment",
+      "Financial Management",
+      "Banking and Finance",
+      "Financial Risk Management",
+      "Financial Reporting"
+    ]
+  },
+  {
+    "name": "Annika Anheyer",
+    "school": "Technische Universität Dortmund",
+    "publications": 0,
+    "citations": 0,
+    "description": null,
+    "skills": [
+      "Bioprocess Engineering and Fermentation Technology",
+      "Polymer Engineering",
+      "Polymer Science",
+      "Biochemical Engineering"
+    ]
+  },
+  {
+    "name": "Crystal Nguyen",
+    "school": "Wentworth Institute of Technology",
+    "publications": 2,
+    "citations": 46,
+    "description": null,
+    "skills": [
+      "Protein Biomarkers"
+    ]
+  },
+  {
+    "name": "Giang Vu Nguyen",
+    "school": "Institute for Tropical Technology",
+    "publications": 55,
+    "citations": 201,
+    "description": "Main job is focusing on fabrication of engineering polymer blend and composite, nanocomposite, green and environmentally friendly materials, degradation and stability of polymer under tropical climate conditions.",
+    "skills": [
+      "Polymers",
+      "Material Characterization",
+      "Materials",
+      "Polymeric Materials",
+      "Nanomaterials",
+      "Materials Testing",
+      "Advanced Materials",
+      "Polymerization",
+      "Polymer Science",
+      "SEM Analysis"
+    ]
+  },
+  {
+    "name": "Shelby Ngo",
+    "school": "University of Texas at Austin",
+    "publications": 0,
+    "citations": 0,
+    "description": null,
+    "skills": []
+  },
+{"name": "Leer Baol", "school": "Minzu University of China", "publications": 0, "citations": 0, "description": null, "skills": ["Visual Culture"]},
+{"name": "Tran thi anh dao", "school": "ENSTA Bretagne", "publications": 0, "citations": 0, "description": null, "skills": []},
+{"name": "Ha N Ngo", "school": "Hanoi University of Science and Technology", "publications": 26, "citations": 161, "description": null, "skills": ["Optics", "Emission", "Materials", "Semiconductor", "Luminescence", "Material Characterization", "Optoelectronics", "Optical Materials", "Semiconductor Nanostructure", "Nanostructured Materials"]},
+{"name": "Vy Nguyen", "school": "University of Washington Seattle", "publications": 0, "citations": 0, "description": null, "skills": []},
+{"name": "Phuong Nguyen", "school": "Hue University", "publications": 0, "citations": 0, "description": null, "skills": ["Forest Management"]},
+{"name": "T. Hang Nguyen", "school": "Thu Dau Mot University", "publications": 1, "citations": 0, "description": null, "skills": []},
+{"name": "Thao Nguyen", "school": "Ho Chi Minh City University of Technology (HCMUT)", "publications": 0, "citations": 0, "description": null, "skills": ["Logistics", "Operations Management", "SCM", "Inventory Management"]},
+{"name": "Nhien Ngo", "school": "Victoria University Melbourne", "publications": 0, "citations": 0, "description": null, "skills": ["Gender Studies", "Qualitative Analysis", "Feminist Theory", "Cultural Studies", "Gender And Development", "Cultural Analysis", "Gender and Science", "Gender History"]},
+{"name": "Viet Hai Ngo", "school": "Coventry University", "publications": 0, "citations": 0, "description": null, "skills": ["Management", "Entrepreneurship", "Strategic Management"]},
+{"name": "Uyen Doan", "school": "King's College London", "publications": 0, "citations": 0, "description": null, "skills": []},
+{"name": "Rebecca Ngola", "school": "Savannah College of Art and Design", "publications": 2, "citations": 0, "description": "My MFA thesis was on service for the under-served: designing contextual support systems for informal, at-home caregivers of patients with Alzheimer's disease. I'm interested in the cultural influences and how to sustain current successful support systems. I recently completed the requirements for my degree, but I continue to explore ways to address the needs of caregivers. I welcome collaboration!", "skills": ["Creativity and Innovation", "Creative Thinking", "Design Thinking", "User Experience", "Co-creation", "User Studies", "Storyboarding", "Designing", "Design Theory", "Prototyping"]},
+{"name": "Diène Ngom", "school": null, "publications": 28, "citations": 147, "description": null, "skills": ["Fisheries", "Fisheries Science", "Control Theory", "Control Systems", "Mechanical Engineering", "Applied Mathematics", "Surveillance", "Models", "Modeling and Simulation", "Prediction"]},
+{"name": "Tram Ngo", "school": "Can Tho University", "publications": 0, "citations": 0, "description": null, "skills": ["Work Ability", "Health and Safety"]},
+{"name": "Elly Ngoma", "school": "University of the Witwatersrand", "publications": 0, "citations": 0, "description": null, "skills": ["Research Methodology", "Academic Writing", "Article Writing", "Data Presentation", "Student Supervision", "Team Working", "Power Point Presentation", "Research And Development", "Content Analysis", "Editing"]},
+{"name": "Kah Seng Ngoi", "school": "Coventry University", "publications": 0, "citations": 0, "description": null, "skills": []},
+{"name": "Charoensub Ngoichunsri", "school": "King Mongkut's University of Technology Thonburi", "publications": 0, "citations": 0, "description": null, "skills": ["Construction Engineering", "Structural Analysis", "Construction", "Building", "Construction Project Management"]},
+{"name": "Tam Ngo", "school": null, "publications": 0, "citations": 0, "description": null, "skills": []},
+{"name": "Tiến Đào Ngọc", "school": "FPT University", "publications": 0, "citations": 0, "description": null, "skills": []},
+{"name": "Hien Ngo", "school": "University of Pittsburgh", "publications": 0, "citations": 0, "description": null, "skills": []},
+{"name": "J. Ngo", "school": "Réseau fribourgeois de santé mentale", "publications": 0, "citations": 0, "description": null, "skills": ["Mental Illness"]},
+{"name": "Pham Ngoc Tuan", "school": null, "publications": 0, "citations": 0, "description": null, "skills": ["Software", "CAD/CAM software", "Statistical Process Control"]},
+{"name": "Tran Thi Ngoc Dieu", "school": "Industrial University of Ho Chi Minh", "publications": 0, "citations": 0, "description": null, "skills": ["Water and Wastewater Treatment", "Biological Wastewater Treatment", "Wastewater Treatment", "Water Treatment", "Wastewater Engineering", "Environmental Impact Assessment", "Environmental Analysis", "Water Quality Analysis", "Water Chemistry", "Environmental Monitoring"]},
+{"name": "Minh Quang Huynh", "school": "Industrial University of Ho Chi Minh", "publications": 0, "citations": 0, "description": null, "skills": ["Strategic Management", "Marketing Management", "Strategic Planning", "Management", "Business Development", "Business", "Leadership", "Strategic Analysis", "Project Management", "Human Resource Management"]},
+{"name": "Ange Ngongang", "school": "University of Notre Dame", "publications": 0, "citations": 0, "description": null, "skills": []},
+{"name": "Celine Nguyen", "school": "The Hong Kong Polytechnic University", "publications": 0, "citations": 0, "description": null, "skills": ["Built Environment", "Housing"]},
+{"name": "Jason Ngoi", "school": "Tunku Abdul Rahman University College", "publications": 0, "citations": 0, "description": null, "skills": ["Electrical & Electronics Engineering"]},
+{"name": "Phuong Pham", "school": "University of Economics Ho Chi Minh City", "publications": 0, "citations": 0, "description": null, "skills": ["Accounting", "Financial Accounting", "Management Accounting", "Auditing"]},
+{"name": "Benoet Ngoy", "school": "Monash University (South Africa)", "publications": 0, "citations": 0, "description": null, "skills": ["Clinical Epidemiology", "Observational Studies", "Cohort Studies", "Epidemiological Analysis", "Case-Control Studies", "Randomized Control Trials", "Descriptive Analysis", "Longitudinal Studies", "Surveillance", "Meta-Analysis"]},
+{"name": "Duy Ngo", "school": "Ho Chi Minh University of Law", "publications": 0, "citations": 0, "description": null, "skills": ["Law and Legal Studies", "Legal Analysis"]},
+{"name": "Vincent Huynh", "school": "University of Ottawa", "publications": 0, "citations": 0, "description": null, "skills": []},
+{"name": "Sarah Ngokai", "school": "Cape Peninsula University of Technology", "publications": 0, "citations": 0, "description": null, "skills": ["Management", "Business", "Entrepreneurship", "Project Management"]},
+{"name": "Tuan Pham", "school": "Union College", "publications": 0, "citations": 0, "description": null, "skills": ["Organic Synthesis", "Heterocyclic Chemistry", "Organic Chemistry Synthesis", "Synthetic Chemistry", "Drug Synthesis", "Stereochemistry", "Natural Product Synthesis", "Synthesis", "Synthetic Organic Chemistry", "Homogeneous Catalysis"]},
+{"name": "Kimberly Huynh", "school": "University of California, Davis", "publications": 0, "citations": 0, "description": null, "skills": ["Structural Analysis", "Construction"]},
+{"name": "Thai Anh Ngoc Huynh", "school": "Can Tho University", "publications": 0, "citations": 0, "description": null, "skills": ["Computer Vision", "Machine Learning", "Image Processing"]},
+{"name": "Kim Huỳnh", "school": "Ho Chi Minh City University of Technology (HCMUT)", "publications": 0, "citations": 0, "description": null, "skills": []},
+{"name": "Abwe Mercy Ngone", "school": null, "publications": 2, "citations": 10, "description": null, "skills": []},
+{"name": "Linh Huynh", "school": "Vietnamese-German University", "publications": 1, "citations": 0, "description": "Specialized in marketing and innovation management of service sectors", "skills": ["Strategic Management", "Teaching and Learning", "Management", "Entrepreneurship", "Innovation", "Leadership", "Business Management"]},
+{"name": "Jennifer Huynh", "school": "Mohawk College", "publications": 0, "citations": 0, "description": null, "skills": ["Accident Analysis", "Urban Planning"]},
+{"name": "Valerie Pham", "school": "Capilano University", "publications": 0, "citations": 0, "description": null, "skills": []},
+{"name": "Van Ngoc", "school": "National Economics University", "publications": 0, "citations": 0, "description": null, "skills": ["Physical Anthropology", "Human Evolution"]},
+{"name": "Amy Huynh", "school": "Southern Illinois University Carbondale", "publications": 0, "citations": 0, "description": null, "skills": ["Arts and Humanities", "Ancient History", "Cultural Studies"]},
+{"name": "Michelle Huynh", "school": "University of Texas at Tyler", "publications": 0, "citations": 0, "description": null, "skills": []},
+{"name": "Thinh HUY Nguyen", "school": "University of Cincinnati", "publications": 6, "citations": 14, "description": null, "skills": ["Electrical & Electronics Engineering", "MATLAB Simulation", "Digital Signal Processing", "Electronics  and Communication Engineering"]},
+{"name": "Duc Nguyen Huu", "school": "Ho Chi Minh City University of Transport", "publications": 0, "citations": 0, "description": null, "skills": ["Structural Analysis", "Dynamic Analysis", "Finite Element Analysis"]},
+{"name": "Mary Nguyen", "school": "University of Texas at Arlington", "publications": 0, "citations": 0, "description": null, "skills": []},
+{"name": "Ngyen Ngoc Khanh", "school": "Ritsumeikan Asia Pacific University", "publications": 0, "citations": 0, "description": null, "skills": ["Public Policy Analysis"]},
+{"name": "Trịnh Thị Ngọc Lan", "school": "Ho Chi Minh City Open University", "publications": 0, "citations": 0, "description": null, "skills": ["Teaching and Learning", "Curriculum Development", "Technology Enhanced Learning", "Problem Solving", "Online Education", "Teaching Materials", "Collaborative Learning", "Professional Development", "Pedagogy and Education", "Educational Evaluation"]},
+{"name": "Toukam Ngoufanke", "school": "Columbia University", "publications": 0, "citations": 0, "description": null, "skills": ["Operations Management", "Optimization"]},
+{"name": "Tracy Ngo", "school": "Albert Einstein College of Medicine", "publications": 3, "citations": 3, "description": null, "skills": []},
+{"name": "Tadiwanashe Ngomanyi", "school": "University of Northwestern Ohio", "publications": 0, "citations": 0, "description": null, "skills": []},
+{"name": "El Hadji Malick Ngom", "school": null, "publications": 3, "citations": 26, "description": null, "skills": ["Plasmodium"]},
+{"name": "Khanh Huynh Cong", "school": "Can Tho University", "publications": 7, "citations": 1, "description": null, "skills": ["Microbial Biotechnology", "Biogas", "Anaerobic Digestion", "Biogas Production", "Biofuels", "Wastewater Treatment", "Environmental Biotechnology", "Biodegradation"]},
+{"name": "Brian Ngo", "school": "University of California, San Diego", "publications": 0, "citations": 0, "description": null, "skills": []},
+{"name": "Nikki Huynh", "school": "Colorado State University", "publications": 0, "citations": 0, "description": null, "skills": ["Plant Genetics", "Plant Molecular Biology", "Plant DNA Extraction", "Plant Biology", "Plant Biotechnology", "Plant Tissue Culture"]},
+{"name": "Dao Nguyen", "school": "Foreign Trade University", "publications": 0, "citations": 0, "description": null, "skills": ["Financial Accounting", "Financial Reporting", "Auditing"]},
+{"name": "Le Thi Ngoc Hieu", "school": "Politecnico di Torino", "publications": 0, "citations": 0, "description": null, "skills": ["Space Technology", "Space Technology for Development", "Systems Engineering"]},

@@ -1,0 +1,5075 @@
+[
+  {
+    "id": "agriculture",
+    "parent_id": null,
+    "name": "Agriculture",
+    "names": {
+      "en": "Agriculture",
+      "vi": "Agriculture"
+    },
+    "synonyms": {
+      "en": [],
+      "vi": []
+    },
+    "types": [
+      "technology"
+    ],
+    "level": 1,
+    "source": "wikipedia",
+    "source_url": "https://en.wikipedia.org/wiki/List_of_emerging_technologies"
+  },
+  {
+    "id": "aerospace",
+    "parent_id": null,
+    "name": "Aerospace",
+    "names": {
+      "en": "Aerospace",
+      "vi": "Aerospace"
+    },
+    "synonyms": {
+      "en": [],
+      "vi": []
+    },
+    "types": [
+      "technology"
+    ],
+    "level": 1,
+    "source": "wikipedia",
+    "source_url": "https://en.wikipedia.org/wiki/List_of_emerging_technologies"
+  },
+  {
+    "id": "construction",
+    "parent_id": null,
+    "name": "Construction",
+    "names": {
+      "en": "Construction",
+      "vi": "Construction"
+    },
+    "synonyms": {
+      "en": [],
+      "vi": []
+    },
+    "types": [
+      "technology"
+    ],
+    "level": 1,
+    "source": "wikipedia",
+    "source_url": "https://en.wikipedia.org/wiki/List_of_emerging_technologies"
+  },
+  {
+    "id": "architecture",
+    "parent_id": null,
+    "name": "Architecture",
+    "names": {
+      "en": "Architecture",
+      "vi": "Architecture"
+    },
+    "synonyms": {
+      "en": [],
+      "vi": []
+    },
+    "types": [
+      "technology"
+    ],
+    "level": 1,
+    "source": "wikipedia",
+    "source_url": "https://en.wikipedia.org/wiki/List_of_emerging_technologies"
+  },
+  {
+    "id": "materials_and_textile_science",
+    "parent_id": null,
+    "name": "Materials and textile science",
+    "names": {
+      "en": "Materials and textile science",
+      "vi": "Materials and textile science"
+    },
+    "synonyms": {
+      "en": [],
+      "vi": []
+    },
+    "types": [
+      "technology"
+    ],
+    "level": 1,
+    "source": "wikipedia",
+    "source_url": "https://en.wikipedia.org/wiki/List_of_emerging_technologies"
+  },
+  {
+    "id": "optoelectronics",
+    "parent_id": null,
+    "name": "Optoelectronics",
+    "names": {
+      "en": "Optoelectronics",
+      "vi": "Optoelectronics"
+    },
+    "synonyms": {
+      "en": [],
+      "vi": []
+    },
+    "types": [
+      "technology"
+    ],
+    "level": 1,
+    "source": "wikipedia",
+    "source_url": "https://en.wikipedia.org/wiki/List_of_emerging_technologies"
+  },
+  {
+    "id": "electronics",
+    "parent_id": null,
+    "name": "Electronics",
+    "names": {
+      "en": "Electronics",
+      "vi": "Electronics"
+    },
+    "synonyms": {
+      "en": [],
+      "vi": []
+    },
+    "types": [
+      "technology"
+    ],
+    "level": 1,
+    "source": "wikipedia",
+    "source_url": "https://en.wikipedia.org/wiki/List_of_emerging_technologies"
+  },
+  {
+    "id": "energy",
+    "parent_id": null,
+    "name": "Energy",
+    "names": {
+      "en": "Energy",
+      "vi": "Energy"
+    },
+    "synonyms": {
+      "en": [],
+      "vi": []
+    },
+    "types": [
+      "technology"
+    ],
+    "level": 1,
+    "source": "wikipedia",
+    "source_url": "https://en.wikipedia.org/wiki/List_of_emerging_technologies"
+  },
+  {
+    "id": "entertainment",
+    "parent_id": null,
+    "name": "Entertainment",
+    "names": {
+      "en": "Entertainment",
+      "vi": "Entertainment"
+    },
+    "synonyms": {
+      "en": [],
+      "vi": []
+    },
+    "types": [
+      "technology"
+    ],
+    "level": 1,
+    "source": "wikipedia",
+    "source_url": "https://en.wikipedia.org/wiki/List_of_emerging_technologies"
+  },
+  {
+    "id": "it_and_communications",
+    "parent_id": null,
+    "name": "IT and communications",
+    "names": {
+      "en": "IT and communications",
+      "vi": "IT and communications"
+    },
+    "synonyms": {
+      "en": [],
+      "vi": []
+    },
+    "types": [
+      "technology"
+    ],
+    "level": 1,
+    "source": "wikipedia",
+    "source_url": "https://en.wikipedia.org/wiki/List_of_emerging_technologies"
+  },
+  {
+    "id": "medical",
+    "parent_id": null,
+    "name": "Medical",
+    "names": {
+      "en": "Medical",
+      "vi": "Medical"
+    },
+    "synonyms": {
+      "en": [],
+      "vi": []
+    },
+    "types": [
+      "technology"
+    ],
+    "level": 1,
+    "source": "wikipedia",
+    "source_url": "https://en.wikipedia.org/wiki/List_of_emerging_technologies"
+  },
+  {
+    "id": "neuroscience",
+    "parent_id": null,
+    "name": "Neuroscience",
+    "names": {
+      "en": "Neuroscience",
+      "vi": "Neuroscience"
+    },
+    "synonyms": {
+      "en": [],
+      "vi": []
+    },
+    "types": [
+      "technology"
+    ],
+    "level": 1,
+    "source": "wikipedia",
+    "source_url": "https://en.wikipedia.org/wiki/List_of_emerging_technologies"
+  },
+  {
+    "id": "military",
+    "parent_id": null,
+    "name": "Military",
+    "names": {
+      "en": "Military",
+      "vi": "Military"
+    },
+    "synonyms": {
+      "en": [],
+      "vi": []
+    },
+    "types": [
+      "technology"
+    ],
+    "level": 1,
+    "source": "wikipedia",
+    "source_url": "https://en.wikipedia.org/wiki/List_of_emerging_technologies"
+  },
+  {
+    "id": "space",
+    "parent_id": null,
+    "name": "Space",
+    "names": {
+      "en": "Space",
+      "vi": "Space"
+    },
+    "synonyms": {
+      "en": [],
+      "vi": []
+    },
+    "types": [
+      "technology"
+    ],
+    "level": 1,
+    "source": "wikipedia",
+    "source_url": "https://en.wikipedia.org/wiki/List_of_emerging_technologies"
+  },
+  {
+    "id": "transport",
+    "parent_id": null,
+    "name": "Transport",
+    "names": {
+      "en": "Transport",
+      "vi": "Transport"
+    },
+    "synonyms": {
+      "en": [],
+      "vi": []
+    },
+    "types": [
+      "technology"
+    ],
+    "level": 1,
+    "source": "wikipedia",
+    "source_url": "https://en.wikipedia.org/wiki/List_of_emerging_technologies"
+  },
+  {
+    "id": "molecular_assembler",
+    "parent_id": "transport_technology",
+    "name": "Molecular assembler",
+    "names": {
+      "en": "Molecular assembler",
+      "vi": "Molecular assembler"
+    },
+    "synonyms": {
+      "en": [],
+      "vi": []
+    },
+    "types": [
+      "technology"
+    ],
+    "level": 2,
+    "source": "wikipedia",
+    "source_url": "https://en.wikipedia.org/wiki/List_of_emerging_technologies"
+  },
+  {
+    "id": "utility_fog",
+    "parent_id": "transport_technology",
+    "name": "Utility fog",
+    "names": {
+      "en": "Utility fog",
+      "vi": "Utility fog"
+    },
+    "synonyms": {
+      "en": [],
+      "vi": []
+    },
+    "types": [
+      "technology"
+    ],
+    "level": 2,
+    "source": "wikipedia",
+    "source_url": "https://en.wikipedia.org/wiki/List_of_emerging_technologies"
+  },
+  {
+    "id": "architecture",
+    "parent_id": "transport_technology",
+    "name": "Architecture",
+    "names": {
+      "en": "Architecture",
+      "vi": "Architecture"
+    },
+    "synonyms": {
+      "en": [],
+      "vi": []
+    },
+    "types": [
+      "technology"
+    ],
+    "level": 2,
+    "source": "wikipedia",
+    "source_url": "https://en.wikipedia.org/wiki/List_of_emerging_technologies"
+  },
+  {
+    "id": "arcology",
+    "parent_id": "transport_technology",
+    "name": "Arcology",
+    "names": {
+      "en": "Arcology",
+      "vi": "Arcology"
+    },
+    "synonyms": {
+      "en": [],
+      "vi": []
+    },
+    "types": [
+      "technology"
+    ],
+    "level": 2,
+    "source": "wikipedia",
+    "source_url": "https://en.wikipedia.org/wiki/List_of_emerging_technologies"
+  },
+  {
+    "id": "domed_city",
+    "parent_id": "transport_technology",
+    "name": "Domed city",
+    "names": {
+      "en": "Domed city",
+      "vi": "Domed city"
+    },
+    "synonyms": {
+      "en": [],
+      "vi": []
+    },
+    "types": [
+      "technology"
+    ],
+    "level": 2,
+    "source": "wikipedia",
+    "source_url": "https://en.wikipedia.org/wiki/List_of_emerging_technologies"
+  },
+  {
+    "id": "materials_and_textile_science",
+    "parent_id": "transport_technology",
+    "name": "Materials and textile science",
+    "names": {
+      "en": "Materials and textile science",
+      "vi": "Materials and textile science"
+    },
+    "synonyms": {
+      "en": [],
+      "vi": []
+    },
+    "types": [
+      "technology"
+    ],
+    "level": 2,
+    "source": "wikipedia",
+    "source_url": "https://en.wikipedia.org/wiki/List_of_emerging_technologies"
+  },
+  {
+    "id": "aerogel",
+    "parent_id": "transport_technology",
+    "name": "Aerogel",
+    "names": {
+      "en": "Aerogel",
+      "vi": "Aerogel"
+    },
+    "synonyms": {
+      "en": [],
+      "vi": []
+    },
+    "types": [
+      "technology"
+    ],
+    "level": 2,
+    "source": "wikipedia",
+    "source_url": "https://en.wikipedia.org/wiki/List_of_emerging_technologies"
+  },
+  {
+    "id": "amorphous_metal",
+    "parent_id": "transport_technology",
+    "name": "Amorphous metal",
+    "names": {
+      "en": "Amorphous metal",
+      "vi": "Amorphous metal"
+    },
+    "synonyms": {
+      "en": [],
+      "vi": []
+    },
+    "types": [
+      "technology"
+    ],
+    "level": 2,
+    "source": "wikipedia",
+    "source_url": "https://en.wikipedia.org/wiki/List_of_emerging_technologies"
+  },
+  {
+    "id": "bioplastic",
+    "parent_id": "transport_technology",
+    "name": "Bioplastic",
+    "names": {
+      "en": "Bioplastic",
+      "vi": "Bioplastic"
+    },
+    "synonyms": {
+      "en": [],
+      "vi": []
+    },
+    "types": [
+      "technology"
+    ],
+    "level": 2,
+    "source": "wikipedia",
+    "source_url": "https://en.wikipedia.org/wiki/List_of_emerging_technologies"
+  },
+  {
+    "id": "conductive_polymers",
+    "parent_id": "transport_technology",
+    "name": "Conductive polymers",
+    "names": {
+      "en": "Conductive polymers",
+      "vi": "Conductive polymers"
+    },
+    "synonyms": {
+      "en": [],
+      "vi": []
+    },
+    "types": [
+      "technology"
+    ],
+    "level": 2,
+    "source": "wikipedia",
+    "source_url": "https://en.wikipedia.org/wiki/List_of_emerging_technologies"
+  },
+  {
+    "id": "cryogenic_treatment",
+    "parent_id": "transport_technology",
+    "name": "Cryogenic treatment",
+    "names": {
+      "en": "Cryogenic treatment",
+      "vi": "Cryogenic treatment"
+    },
+    "synonyms": {
+      "en": [],
+      "vi": []
+    },
+    "types": [
+      "technology"
+    ],
+    "level": 2,
+    "source": "wikipedia",
+    "source_url": "https://en.wikipedia.org/wiki/List_of_emerging_technologies"
+  },
+  {
+    "id": "dynamic_armor",
+    "parent_id": "transport_technology",
+    "name": "Dynamic Armor",
+    "names": {
+      "en": "Dynamic Armor",
+      "vi": "Dynamic Armor"
+    },
+    "synonyms": {
+      "en": [],
+      "vi": []
+    },
+    "types": [
+      "technology"
+    ],
+    "level": 2,
+    "source": "wikipedia",
+    "source_url": "https://en.wikipedia.org/wiki/List_of_emerging_technologies"
+  },
+  {
+    "id": "fullerene",
+    "parent_id": "transport_technology",
+    "name": "Fullerene",
+    "names": {
+      "en": "Fullerene",
+      "vi": "Fullerene"
+    },
+    "synonyms": {
+      "en": [],
+      "vi": []
+    },
+    "types": [
+      "technology"
+    ],
+    "level": 2,
+    "source": "wikipedia",
+    "source_url": "https://en.wikipedia.org/wiki/List_of_emerging_technologies"
+  },
+  {
+    "id": "graphene",
+    "parent_id": "transport_technology",
+    "name": "Graphene",
+    "names": {
+      "en": "Graphene",
+      "vi": "Graphene"
+    },
+    "synonyms": {
+      "en": [],
+      "vi": []
+    },
+    "types": [
+      "technology"
+    ],
+    "level": 2,
+    "source": "wikipedia",
+    "source_url": "https://en.wikipedia.org/wiki/List_of_emerging_technologies"
+  },
+  {
+    "id": "lab_on_a_chip",
+    "parent_id": "transport_technology",
+    "name": "Lab-on-a-chip",
+    "names": {
+      "en": "Lab-on-a-chip",
+      "vi": "Lab-on-a-chip"
+    },
+    "synonyms": {
+      "en": [],
+      "vi": []
+    },
+    "types": [
+      "technology"
+    ],
+    "level": 2,
+    "source": "wikipedia",
+    "source_url": "https://en.wikipedia.org/wiki/List_of_emerging_technologies"
+  },
+  {
+    "id": "high_temperature_superconductivity",
+    "parent_id": "transport_technology",
+    "name": "High-temperature superconductivity",
+    "names": {
+      "en": "High-temperature superconductivity",
+      "vi": "High-temperature superconductivity"
+    },
+    "synonyms": {
+      "en": [],
+      "vi": []
+    },
+    "types": [
+      "technology"
+    ],
+    "level": 2,
+    "source": "wikipedia",
+    "source_url": "https://en.wikipedia.org/wiki/List_of_emerging_technologies"
+  },
+  {
+    "id": "magnetic_nanoparticles",
+    "parent_id": "transport_technology",
+    "name": "Magnetic nanoparticles",
+    "names": {
+      "en": "Magnetic nanoparticles",
+      "vi": "Magnetic nanoparticles"
+    },
+    "synonyms": {
+      "en": [],
+      "vi": []
+    },
+    "types": [
+      "technology"
+    ],
+    "level": 2,
+    "source": "wikipedia",
+    "source_url": "https://en.wikipedia.org/wiki/List_of_emerging_technologies"
+  },
+  {
+    "id": "magnetorheological_fluid",
+    "parent_id": "transport_technology",
+    "name": "Magnetorheological fluid",
+    "names": {
+      "en": "Magnetorheological fluid",
+      "vi": "Magnetorheological fluid"
+    },
+    "synonyms": {
+      "en": [],
+      "vi": []
+    },
+    "types": [
+      "technology"
+    ],
+    "level": 2,
+    "source": "wikipedia",
+    "source_url": "https://en.wikipedia.org/wiki/List_of_emerging_technologies"
+  },
+  {
+    "id": "microfluidics",
+    "parent_id": "transport_technology",
+    "name": "Microfluidics",
+    "names": {
+      "en": "Microfluidics",
+      "vi": "Microfluidics"
+    },
+    "synonyms": {
+      "en": [],
+      "vi": []
+    },
+    "types": [
+      "technology"
+    ],
+    "level": 2,
+    "source": "wikipedia",
+    "source_url": "https://en.wikipedia.org/wiki/List_of_emerging_technologies"
+  },
+  {
+    "id": "high_temperature_superfluidity",
+    "parent_id": "transport_technology",
+    "name": "High-temperature superfluidity",
+    "names": {
+      "en": "High-temperature superfluidity",
+      "vi": "High-temperature superfluidity"
+    },
+    "synonyms": {
+      "en": [],
+      "vi": []
+    },
+    "types": [
+      "technology"
+    ],
+    "level": 2,
+    "source": "wikipedia",
+    "source_url": "https://en.wikipedia.org/wiki/List_of_emerging_technologies"
+  },
+  {
+    "id": "metamaterials",
+    "parent_id": "transport_technology",
+    "name": "Metamaterials",
+    "names": {
+      "en": "Metamaterials",
+      "vi": "Metamaterials"
+    },
+    "synonyms": {
+      "en": [],
+      "vi": []
+    },
+    "types": [
+      "technology"
+    ],
+    "level": 2,
+    "source": "wikipedia",
+    "source_url": "https://en.wikipedia.org/wiki/List_of_emerging_technologies"
+  },
+  {
+    "id": "metal_foam",
+    "parent_id": "transport_technology",
+    "name": "Metal foam",
+    "names": {
+      "en": "Metal foam",
+      "vi": "Metal foam"
+    },
+    "synonyms": {
+      "en": [],
+      "vi": []
+    },
+    "types": [
+      "technology"
+    ],
+    "level": 2,
+    "source": "wikipedia",
+    "source_url": "https://en.wikipedia.org/wiki/List_of_emerging_technologies"
+  },
+  {
+    "id": "multi_function_structures",
+    "parent_id": "transport_technology",
+    "name": "Multi-function structures",
+    "names": {
+      "en": "Multi-function structures",
+      "vi": "Multi-function structures"
+    },
+    "synonyms": {
+      "en": [],
+      "vi": []
+    },
+    "types": [
+      "technology"
+    ],
+    "level": 2,
+    "source": "wikipedia",
+    "source_url": "https://en.wikipedia.org/wiki/List_of_emerging_technologies"
+  },
+  {
+    "id": "nanomaterials",
+    "parent_id": "transport_technology",
+    "name": "Nanomaterials",
+    "names": {
+      "en": "Nanomaterials",
+      "vi": "Nanomaterials"
+    },
+    "synonyms": {
+      "en": [],
+      "vi": []
+    },
+    "types": [
+      "technology"
+    ],
+    "level": 2,
+    "source": "wikipedia",
+    "source_url": "https://en.wikipedia.org/wiki/List_of_emerging_technologies"
+  },
+  {
+    "id": "carbon_nanotubes",
+    "parent_id": "transport_technology",
+    "name": "carbon nanotubes",
+    "names": {
+      "en": "carbon nanotubes",
+      "vi": "carbon nanotubes"
+    },
+    "synonyms": {
+      "en": [],
+      "vi": []
+    },
+    "types": [
+      "technology"
+    ],
+    "level": 2,
+    "source": "wikipedia",
+    "source_url": "https://en.wikipedia.org/wiki/List_of_emerging_technologies"
+  },
+  {
+    "id": "programmable_matter",
+    "parent_id": "transport_technology",
+    "name": "Programmable matter",
+    "names": {
+      "en": "Programmable matter",
+      "vi": "Programmable matter"
+    },
+    "synonyms": {
+      "en": [],
+      "vi": []
+    },
+    "types": [
+      "technology"
+    ],
+    "level": 2,
+    "source": "wikipedia",
+    "source_url": "https://en.wikipedia.org/wiki/List_of_emerging_technologies"
+  },
+  {
+    "id": "quantum_dots",
+    "parent_id": "transport_technology",
+    "name": "Quantum dots",
+    "names": {
+      "en": "Quantum dots",
+      "vi": "Quantum dots"
+    },
+    "synonyms": {
+      "en": [],
+      "vi": []
+    },
+    "types": [
+      "technology"
+    ],
+    "level": 2,
+    "source": "wikipedia",
+    "source_url": "https://en.wikipedia.org/wiki/List_of_emerging_technologies"
+  },
+  {
+    "id": "silicene",
+    "parent_id": "transport_technology",
+    "name": "Silicene",
+    "names": {
+      "en": "Silicene",
+      "vi": "Silicene"
+    },
+    "synonyms": {
+      "en": [],
+      "vi": []
+    },
+    "types": [
+      "technology"
+    ],
+    "level": 2,
+    "source": "wikipedia",
+    "source_url": "https://en.wikipedia.org/wiki/List_of_emerging_technologies"
+  },
+  {
+    "id": "superalloy",
+    "parent_id": "transport_technology",
+    "name": "Superalloy",
+    "names": {
+      "en": "Superalloy",
+      "vi": "Superalloy"
+    },
+    "synonyms": {
+      "en": [],
+      "vi": []
+    },
+    "types": [
+      "technology"
+    ],
+    "level": 2,
+    "source": "wikipedia",
+    "source_url": "https://en.wikipedia.org/wiki/List_of_emerging_technologies"
+  },
+  {
+    "id": "synthetic_diamond",
+    "parent_id": "transport_technology",
+    "name": "Synthetic diamond",
+    "names": {
+      "en": "Synthetic diamond",
+      "vi": "Synthetic diamond"
+    },
+    "synonyms": {
+      "en": [],
+      "vi": []
+    },
+    "types": [
+      "technology"
+    ],
+    "level": 2,
+    "source": "wikipedia",
+    "source_url": "https://en.wikipedia.org/wiki/List_of_emerging_technologies"
+  },
+  {
+    "id": "time_crystals",
+    "parent_id": "transport_technology",
+    "name": "Time crystals",
+    "names": {
+      "en": "Time crystals",
+      "vi": "Time crystals"
+    },
+    "synonyms": {
+      "en": [],
+      "vi": []
+    },
+    "types": [
+      "technology"
+    ],
+    "level": 2,
+    "source": "wikipedia",
+    "source_url": "https://en.wikipedia.org/wiki/List_of_emerging_technologies"
+  },
+  {
+    "id": "translucent_concrete",
+    "parent_id": "transport_technology",
+    "name": "Translucent concrete",
+    "names": {
+      "en": "Translucent concrete",
+      "vi": "Translucent concrete"
+    },
+    "synonyms": {
+      "en": [],
+      "vi": []
+    },
+    "types": [
+      "technology"
+    ],
+    "level": 2,
+    "source": "wikipedia",
+    "source_url": "https://en.wikipedia.org/wiki/List_of_emerging_technologies"
+  },
+  {
+    "id": "hypereutectic_alloy",
+    "parent_id": "transport_technology",
+    "name": "Hypereutectic alloy",
+    "names": {
+      "en": "Hypereutectic alloy",
+      "vi": "Hypereutectic alloy"
+    },
+    "synonyms": {
+      "en": [],
+      "vi": []
+    },
+    "types": [
+      "technology"
+    ],
+    "level": 2,
+    "source": "wikipedia",
+    "source_url": "https://en.wikipedia.org/wiki/List_of_emerging_technologies"
+  },
+  {
+    "id": "super_plastic_alloy",
+    "parent_id": "transport_technology",
+    "name": "Super-plastic alloy",
+    "names": {
+      "en": "Super-plastic alloy",
+      "vi": "Super-plastic alloy"
+    },
+    "synonyms": {
+      "en": [],
+      "vi": []
+    },
+    "types": [
+      "technology"
+    ],
+    "level": 2,
+    "source": "wikipedia",
+    "source_url": "https://en.wikipedia.org/wiki/List_of_emerging_technologies"
+  },
+  {
+    "id": "optoelectronics",
+    "parent_id": "transport_technology",
+    "name": "Optoelectronics",
+    "names": {
+      "en": "Optoelectronics",
+      "vi": "Optoelectronics"
+    },
+    "synonyms": {
+      "en": [],
+      "vi": []
+    },
+    "types": [
+      "technology"
+    ],
+    "level": 2,
+    "source": "wikipedia",
+    "source_url": "https://en.wikipedia.org/wiki/List_of_emerging_technologies"
+  },
+  {
+    "id": "drone_display",
+    "parent_id": "transport_technology",
+    "name": "Drone display",
+    "names": {
+      "en": "Drone display",
+      "vi": "Drone display"
+    },
+    "synonyms": {
+      "en": [],
+      "vi": []
+    },
+    "types": [
+      "technology"
+    ],
+    "level": 2,
+    "source": "wikipedia",
+    "source_url": "https://en.wikipedia.org/wiki/List_of_emerging_technologies"
+  },
+  {
+    "id": "flexible_display",
+    "parent_id": "transport_technology",
+    "name": "Flexible display",
+    "names": {
+      "en": "Flexible display",
+      "vi": "Flexible display"
+    },
+    "synonyms": {
+      "en": [],
+      "vi": []
+    },
+    "types": [
+      "technology"
+    ],
+    "level": 2,
+    "source": "wikipedia",
+    "source_url": "https://en.wikipedia.org/wiki/List_of_emerging_technologies"
+  },
+  {
+    "id": "volumetric_display",
+    "parent_id": "transport_technology",
+    "name": "Volumetric display",
+    "names": {
+      "en": "Volumetric display",
+      "vi": "Volumetric display"
+    },
+    "synonyms": {
+      "en": [],
+      "vi": []
+    },
+    "types": [
+      "technology"
+    ],
+    "level": 2,
+    "source": "wikipedia",
+    "source_url": "https://en.wikipedia.org/wiki/List_of_emerging_technologies"
+  },
+  {
+    "id": "laser_video_displays",
+    "parent_id": "transport_technology",
+    "name": "Laser video displays",
+    "names": {
+      "en": "Laser video displays",
+      "vi": "Laser video displays"
+    },
+    "synonyms": {
+      "en": [],
+      "vi": []
+    },
+    "types": [
+      "technology"
+    ],
+    "level": 2,
+    "source": "wikipedia",
+    "source_url": "https://en.wikipedia.org/wiki/List_of_emerging_technologies"
+  },
+  {
+    "id": "holography",
+    "parent_id": "transport_technology",
+    "name": "Holography",
+    "names": {
+      "en": "Holography",
+      "vi": "Holography"
+    },
+    "synonyms": {
+      "en": [],
+      "vi": []
+    },
+    "types": [
+      "technology"
+    ],
+    "level": 2,
+    "source": "wikipedia",
+    "source_url": "https://en.wikipedia.org/wiki/List_of_emerging_technologies"
+  },
+  {
+    "id": "holographic_display",
+    "parent_id": "transport_technology",
+    "name": "holographic display",
+    "names": {
+      "en": "holographic display",
+      "vi": "holographic display"
+    },
+    "synonyms": {
+      "en": [],
+      "vi": []
+    },
+    "types": [
+      "technology"
+    ],
+    "level": 2,
+    "source": "wikipedia",
+    "source_url": "https://en.wikipedia.org/wiki/List_of_emerging_technologies"
+  },
+  {
+    "id": "computer_generated_holography",
+    "parent_id": "transport_technology",
+    "name": "computer-generated holography",
+    "names": {
+      "en": "computer-generated holography",
+      "vi": "computer-generated holography"
+    },
+    "synonyms": {
+      "en": [],
+      "vi": []
+    },
+    "types": [
+      "technology"
+    ],
+    "level": 2,
+    "source": "wikipedia",
+    "source_url": "https://en.wikipedia.org/wiki/List_of_emerging_technologies"
+  },
+  {
+    "id": "optical_transistor",
+    "parent_id": "transport_technology",
+    "name": "Optical transistor",
+    "names": {
+      "en": "Optical transistor",
+      "vi": "Optical transistor"
+    },
+    "synonyms": {
+      "en": [],
+      "vi": []
+    },
+    "types": [
+      "technology"
+    ],
+    "level": 2,
+    "source": "wikipedia",
+    "source_url": "https://en.wikipedia.org/wiki/List_of_emerging_technologies"
+  },
+  {
+    "id": "screenless_display",
+    "parent_id": "transport_technology",
+    "name": "Screenless display",
+    "names": {
+      "en": "Screenless display",
+      "vi": "Screenless display"
+    },
+    "synonyms": {
+      "en": [],
+      "vi": []
+    },
+    "types": [
+      "technology"
+    ],
+    "level": 2,
+    "source": "wikipedia",
+    "source_url": "https://en.wikipedia.org/wiki/List_of_emerging_technologies"
+  },
+  {
+    "id": "virtual_retinal_display",
+    "parent_id": "transport_technology",
+    "name": "Virtual retinal display",
+    "names": {
+      "en": "Virtual retinal display",
+      "vi": "Virtual retinal display"
+    },
+    "synonyms": {
+      "en": [],
+      "vi": []
+    },
+    "types": [
+      "technology"
+    ],
+    "level": 2,
+    "source": "wikipedia",
+    "source_url": "https://en.wikipedia.org/wiki/List_of_emerging_technologies"
+  },
+  {
+    "id": "bionic_contact_lens",
+    "parent_id": "transport_technology",
+    "name": "Bionic contact lens",
+    "names": {
+      "en": "Bionic contact lens",
+      "vi": "Bionic contact lens"
+    },
+    "synonyms": {
+      "en": [],
+      "vi": []
+    },
+    "types": [
+      "technology"
+    ],
+    "level": 2,
+    "source": "wikipedia",
+    "source_url": "https://en.wikipedia.org/wiki/List_of_emerging_technologies"
+  },
+  {
+    "id": "augmented_reality",
+    "parent_id": "transport_technology",
+    "name": "Augmented reality",
+    "names": {
+      "en": "Augmented reality",
+      "vi": "Augmented reality"
+    },
+    "synonyms": {
+      "en": [],
+      "vi": []
+    },
+    "types": [
+      "technology"
+    ],
+    "level": 2,
+    "source": "wikipedia",
+    "source_url": "https://en.wikipedia.org/wiki/List_of_emerging_technologies"
+  },
+  {
+    "id": "virtual_reality",
+    "parent_id": "transport_technology",
+    "name": "virtual reality",
+    "names": {
+      "en": "virtual reality",
+      "vi": "virtual reality"
+    },
+    "synonyms": {
+      "en": [],
+      "vi": []
+    },
+    "types": [
+      "technology"
+    ],
+    "level": 2,
+    "source": "wikipedia",
+    "source_url": "https://en.wikipedia.org/wiki/List_of_emerging_technologies"
+  },
+  {
+    "id": "electronics",
+    "parent_id": "transport_technology",
+    "name": "Electronics",
+    "names": {
+      "en": "Electronics",
+      "vi": "Electronics"
+    },
+    "synonyms": {
+      "en": [],
+      "vi": []
+    },
+    "types": [
+      "technology"
+    ],
+    "level": 2,
+    "source": "wikipedia",
+    "source_url": "https://en.wikipedia.org/wiki/List_of_emerging_technologies"
+  },
+  {
+    "id": "biometrics",
+    "parent_id": "transport_technology",
+    "name": "Biometrics",
+    "names": {
+      "en": "Biometrics",
+      "vi": "Biometrics"
+    },
+    "synonyms": {
+      "en": [],
+      "vi": []
+    },
+    "types": [
+      "technology"
+    ],
+    "level": 2,
+    "source": "wikipedia",
+    "source_url": "https://en.wikipedia.org/wiki/List_of_emerging_technologies"
+  },
+  {
+    "id": "digital_scent_technology",
+    "parent_id": "transport_technology",
+    "name": "Digital scent technology",
+    "names": {
+      "en": "Digital scent technology",
+      "vi": "Digital scent technology"
+    },
+    "synonyms": {
+      "en": [],
+      "vi": []
+    },
+    "types": [
+      "technology"
+    ],
+    "level": 2,
+    "source": "wikipedia",
+    "source_url": "https://en.wikipedia.org/wiki/List_of_emerging_technologies"
+  },
+  {
+    "id": "electronic_nose",
+    "parent_id": "transport_technology",
+    "name": "Electronic nose",
+    "names": {
+      "en": "Electronic nose",
+      "vi": "Electronic nose"
+    },
+    "synonyms": {
+      "en": [],
+      "vi": []
+    },
+    "types": [
+      "technology"
+    ],
+    "level": 2,
+    "source": "wikipedia",
+    "source_url": "https://en.wikipedia.org/wiki/List_of_emerging_technologies"
+  },
+  {
+    "id": "e_textiles",
+    "parent_id": "transport_technology",
+    "name": "E-textiles",
+    "names": {
+      "en": "E-textiles",
+      "vi": "E-textiles"
+    },
+    "synonyms": {
+      "en": [],
+      "vi": []
+    },
+    "types": [
+      "technology"
+    ],
+    "level": 2,
+    "source": "wikipedia",
+    "source_url": "https://en.wikipedia.org/wiki/List_of_emerging_technologies"
+  },
+  {
+    "id": "flexible_electronics",
+    "parent_id": "transport_technology",
+    "name": "Flexible electronics",
+    "names": {
+      "en": "Flexible electronics",
+      "vi": "Flexible electronics"
+    },
+    "synonyms": {
+      "en": [],
+      "vi": []
+    },
+    "types": [
+      "technology"
+    ],
+    "level": 2,
+    "source": "wikipedia",
+    "source_url": "https://en.wikipedia.org/wiki/List_of_emerging_technologies"
+  },
+  {
+    "id": "memristor",
+    "parent_id": "transport_technology",
+    "name": "Memristor",
+    "names": {
+      "en": "Memristor",
+      "vi": "Memristor"
+    },
+    "synonyms": {
+      "en": [],
+      "vi": []
+    },
+    "types": [
+      "technology"
+    ],
+    "level": 2,
+    "source": "wikipedia",
+    "source_url": "https://en.wikipedia.org/wiki/List_of_emerging_technologies"
+  },
+  {
+    "id": "molecular_electronics",
+    "parent_id": "transport_technology",
+    "name": "Molecular electronics",
+    "names": {
+      "en": "Molecular electronics",
+      "vi": "Molecular electronics"
+    },
+    "synonyms": {
+      "en": [],
+      "vi": []
+    },
+    "types": [
+      "technology"
+    ],
+    "level": 2,
+    "source": "wikipedia",
+    "source_url": "https://en.wikipedia.org/wiki/List_of_emerging_technologies"
+  },
+  {
+    "id": "nanoelectromechanical_systems",
+    "parent_id": "transport_technology",
+    "name": "Nanoelectromechanical systems",
+    "names": {
+      "en": "Nanoelectromechanical systems",
+      "vi": "Nanoelectromechanical systems"
+    },
+    "synonyms": {
+      "en": [],
+      "vi": []
+    },
+    "types": [
+      "technology"
+    ],
+    "level": 2,
+    "source": "wikipedia",
+    "source_url": "https://en.wikipedia.org/wiki/List_of_emerging_technologies"
+  },
+  {
+    "id": "solid_state_transformer",
+    "parent_id": "transport_technology",
+    "name": "Solid-state transformer",
+    "names": {
+      "en": "Solid-state transformer",
+      "vi": "Solid-state transformer"
+    },
+    "synonyms": {
+      "en": [],
+      "vi": []
+    },
+    "types": [
+      "technology"
+    ],
+    "level": 2,
+    "source": "wikipedia",
+    "source_url": "https://en.wikipedia.org/wiki/List_of_emerging_technologies"
+  },
+  {
+    "id": "spintronics",
+    "parent_id": "transport_technology",
+    "name": "Spintronics",
+    "names": {
+      "en": "Spintronics",
+      "vi": "Spintronics"
+    },
+    "synonyms": {
+      "en": [],
+      "vi": []
+    },
+    "types": [
+      "technology"
+    ],
+    "level": 2,
+    "source": "wikipedia",
+    "source_url": "https://en.wikipedia.org/wiki/List_of_emerging_technologies"
+  },
+  {
+    "id": "thermal_copper_pillar_bump",
+    "parent_id": "transport_technology",
+    "name": "Thermal copper pillar bump",
+    "names": {
+      "en": "Thermal copper pillar bump",
+      "vi": "Thermal copper pillar bump"
+    },
+    "synonyms": {
+      "en": [],
+      "vi": []
+    },
+    "types": [
+      "technology"
+    ],
+    "level": 2,
+    "source": "wikipedia",
+    "source_url": "https://en.wikipedia.org/wiki/List_of_emerging_technologies"
+  },
+  {
+    "id": "three_dimensional_integrated_circuit",
+    "parent_id": "transport_technology",
+    "name": "Three-dimensional integrated circuit",
+    "names": {
+      "en": "Three-dimensional integrated circuit",
+      "vi": "Three-dimensional integrated circuit"
+    },
+    "synonyms": {
+      "en": [],
+      "vi": []
+    },
+    "types": [
+      "technology"
+    ],
+    "level": 2,
+    "source": "wikipedia",
+    "source_url": "https://en.wikipedia.org/wiki/List_of_emerging_technologies"
+  },
+  {
+    "id": "twistronics",
+    "parent_id": "transport_technology",
+    "name": "Twistronics",
+    "names": {
+      "en": "Twistronics",
+      "vi": "Twistronics"
+    },
+    "synonyms": {
+      "en": [],
+      "vi": []
+    },
+    "types": [
+      "technology"
+    ],
+    "level": 2,
+    "source": "wikipedia",
+    "source_url": "https://en.wikipedia.org/wiki/List_of_emerging_technologies"
+  },
+  {
+    "id": "energy",
+    "parent_id": "transport_technology",
+    "name": "Energy",
+    "names": {
+      "en": "Energy",
+      "vi": "Energy"
+    },
+    "synonyms": {
+      "en": [],
+      "vi": []
+    },
+    "types": [
+      "technology"
+    ],
+    "level": 2,
+    "source": "wikipedia",
+    "source_url": "https://en.wikipedia.org/wiki/List_of_emerging_technologies"
+  },
+  {
+    "id": "airborne_wind_turbine",
+    "parent_id": "transport_technology",
+    "name": "Airborne wind turbine",
+    "names": {
+      "en": "Airborne wind turbine",
+      "vi": "Airborne wind turbine"
+    },
+    "synonyms": {
+      "en": [],
+      "vi": []
+    },
+    "types": [
+      "technology"
+    ],
+    "level": 2,
+    "source": "wikipedia",
+    "source_url": "https://en.wikipedia.org/wiki/List_of_emerging_technologies"
+  },
+  {
+    "id": "americium_battery",
+    "parent_id": "transport_technology",
+    "name": "Americium battery",
+    "names": {
+      "en": "Americium battery",
+      "vi": "Americium battery"
+    },
+    "synonyms": {
+      "en": [],
+      "vi": []
+    },
+    "types": [
+      "technology"
+    ],
+    "level": 2,
+    "source": "wikipedia",
+    "source_url": "https://en.wikipedia.org/wiki/List_of_emerging_technologies"
+  },
+  {
+    "id": "artificial_photosynthesis",
+    "parent_id": "transport_technology",
+    "name": "Artificial photosynthesis",
+    "names": {
+      "en": "Artificial photosynthesis",
+      "vi": "Artificial photosynthesis"
+    },
+    "synonyms": {
+      "en": [],
+      "vi": []
+    },
+    "types": [
+      "technology"
+    ],
+    "level": 2,
+    "source": "wikipedia",
+    "source_url": "https://en.wikipedia.org/wiki/List_of_emerging_technologies"
+  },
+  {
+    "id": "concentrated_solar_power",
+    "parent_id": "transport_technology",
+    "name": "Concentrated solar power",
+    "names": {
+      "en": "Concentrated solar power",
+      "vi": "Concentrated solar power"
+    },
+    "synonyms": {
+      "en": [],
+      "vi": []
+    },
+    "types": [
+      "technology"
+    ],
+    "level": 2,
+    "source": "wikipedia",
+    "source_url": "https://en.wikipedia.org/wiki/List_of_emerging_technologies"
+  },
+  {
+    "id": "cryogenic_treatment",
+    "parent_id": "transport_technology",
+    "name": "Cryogenic treatment",
+    "names": {
+      "en": "Cryogenic treatment",
+      "vi": "Cryogenic treatment"
+    },
+    "synonyms": {
+      "en": [],
+      "vi": []
+    },
+    "types": [
+      "technology"
+    ],
+    "level": 2,
+    "source": "wikipedia",
+    "source_url": "https://en.wikipedia.org/wiki/List_of_emerging_technologies"
+  },
+  {
+    "id": "electric_double_layer_capacitor",
+    "parent_id": "transport_technology",
+    "name": "Electric double-layer capacitor",
+    "names": {
+      "en": "Electric double-layer capacitor",
+      "vi": "Electric double-layer capacitor"
+    },
+    "synonyms": {
+      "en": [],
+      "vi": []
+    },
+    "types": [
+      "technology"
+    ],
+    "level": 2,
+    "source": "wikipedia",
+    "source_url": "https://en.wikipedia.org/wiki/List_of_emerging_technologies"
+  },
+  {
+    "id": "energy_harvesting",
+    "parent_id": "transport_technology",
+    "name": "Energy harvesting",
+    "names": {
+      "en": "Energy harvesting",
+      "vi": "Energy harvesting"
+    },
+    "synonyms": {
+      "en": [],
+      "vi": []
+    },
+    "types": [
+      "technology"
+    ],
+    "level": 2,
+    "source": "wikipedia",
+    "source_url": "https://en.wikipedia.org/wiki/List_of_emerging_technologies"
+  },
+  {
+    "id": "flywheel_energy_storage",
+    "parent_id": "transport_technology",
+    "name": "Flywheel energy storage",
+    "names": {
+      "en": "Flywheel energy storage",
+      "vi": "Flywheel energy storage"
+    },
+    "synonyms": {
+      "en": [],
+      "vi": []
+    },
+    "types": [
+      "technology"
+    ],
+    "level": 2,
+    "source": "wikipedia",
+    "source_url": "https://en.wikipedia.org/wiki/List_of_emerging_technologies"
+  },
+  {
+    "id": "fusion_power",
+    "parent_id": "transport_technology",
+    "name": "Fusion power",
+    "names": {
+      "en": "Fusion power",
+      "vi": "Fusion power"
+    },
+    "synonyms": {
+      "en": [],
+      "vi": []
+    },
+    "types": [
+      "technology"
+    ],
+    "level": 2,
+    "source": "wikipedia",
+    "source_url": "https://en.wikipedia.org/wiki/List_of_emerging_technologies"
+  },
+  {
+    "id": "generation_iv_nuclear_reactor",
+    "parent_id": "transport_technology",
+    "name": "Generation IV nuclear reactor",
+    "names": {
+      "en": "Generation IV nuclear reactor",
+      "vi": "Generation IV nuclear reactor"
+    },
+    "synonyms": {
+      "en": [],
+      "vi": []
+    },
+    "types": [
+      "technology"
+    ],
+    "level": 2,
+    "source": "wikipedia",
+    "source_url": "https://en.wikipedia.org/wiki/List_of_emerging_technologies"
+  },
+  {
+    "id": "gravity_battery",
+    "parent_id": "transport_technology",
+    "name": "Gravity battery",
+    "names": {
+      "en": "Gravity battery",
+      "vi": "Gravity battery"
+    },
+    "synonyms": {
+      "en": [],
+      "vi": []
+    },
+    "types": [
+      "technology"
+    ],
+    "level": 2,
+    "source": "wikipedia",
+    "source_url": "https://en.wikipedia.org/wiki/List_of_emerging_technologies"
+  },
+  {
+    "id": "grid_energy_storage",
+    "parent_id": "transport_technology",
+    "name": "Grid energy storage",
+    "names": {
+      "en": "Grid energy storage",
+      "vi": "Grid energy storage"
+    },
+    "synonyms": {
+      "en": [],
+      "vi": []
+    },
+    "types": [
+      "technology"
+    ],
+    "level": 2,
+    "source": "wikipedia",
+    "source_url": "https://en.wikipedia.org/wiki/List_of_emerging_technologies"
+  },
+  {
+    "id": "home_fuel_cell",
+    "parent_id": "transport_technology",
+    "name": "Home fuel cell",
+    "names": {
+      "en": "Home fuel cell",
+      "vi": "Home fuel cell"
+    },
+    "synonyms": {
+      "en": [],
+      "vi": []
+    },
+    "types": [
+      "technology"
+    ],
+    "level": 2,
+    "source": "wikipedia",
+    "source_url": "https://en.wikipedia.org/wiki/List_of_emerging_technologies"
+  },
+  {
+    "id": "hypercapacitor",
+    "parent_id": "transport_technology",
+    "name": "Hypercapacitor",
+    "names": {
+      "en": "Hypercapacitor",
+      "vi": "Hypercapacitor"
+    },
+    "synonyms": {
+      "en": [],
+      "vi": []
+    },
+    "types": [
+      "technology"
+    ],
+    "level": 2,
+    "source": "wikipedia",
+    "source_url": "https://en.wikipedia.org/wiki/List_of_emerging_technologies"
+  },
+  {
+    "id": "lithium_air_battery",
+    "parent_id": "transport_technology",
+    "name": "Lithium-air battery",
+    "names": {
+      "en": "Lithium-air battery",
+      "vi": "Lithium-air battery"
+    },
+    "synonyms": {
+      "en": [],
+      "vi": []
+    },
+    "types": [
+      "technology"
+    ],
+    "level": 2,
+    "source": "wikipedia",
+    "source_url": "https://en.wikipedia.org/wiki/List_of_emerging_technologies"
+  },
+  {
+    "id": "lithium_iron_phosphate_battery",
+    "parent_id": "transport_technology",
+    "name": "Lithium iron phosphate battery",
+    "names": {
+      "en": "Lithium iron phosphate battery",
+      "vi": "Lithium iron phosphate battery"
+    },
+    "synonyms": {
+      "en": [],
+      "vi": []
+    },
+    "types": [
+      "technology"
+    ],
+    "level": 2,
+    "source": "wikipedia",
+    "source_url": "https://en.wikipedia.org/wiki/List_of_emerging_technologies"
+  },
+  {
+    "id": "lithium\u2013sulfur_battery",
+    "parent_id": "transport_technology",
+    "name": "Lithium\u2013sulfur battery",
+    "names": {
+      "en": "Lithium\u2013sulfur battery",
+      "vi": "Lithium\u2013sulfur battery"
+    },
+    "synonyms": {
+      "en": [],
+      "vi": []
+    },
+    "types": [
+      "technology"
+    ],
+    "level": 2,
+    "source": "wikipedia",
+    "source_url": "https://en.wikipedia.org/wiki/List_of_emerging_technologies"
+  },
+  {
+    "id": "magnesium_battery",
+    "parent_id": "transport_technology",
+    "name": "Magnesium battery",
+    "names": {
+      "en": "Magnesium battery",
+      "vi": "Magnesium battery"
+    },
+    "synonyms": {
+      "en": [],
+      "vi": []
+    },
+    "types": [
+      "technology"
+    ],
+    "level": 2,
+    "source": "wikipedia",
+    "source_url": "https://en.wikipedia.org/wiki/List_of_emerging_technologies"
+  },
+  {
+    "id": "magnonics",
+    "parent_id": "transport_technology",
+    "name": "Magnonics",
+    "names": {
+      "en": "Magnonics",
+      "vi": "Magnonics"
+    },
+    "synonyms": {
+      "en": [],
+      "vi": []
+    },
+    "types": [
+      "technology"
+    ],
+    "level": 2,
+    "source": "wikipedia",
+    "source_url": "https://en.wikipedia.org/wiki/List_of_emerging_technologies"
+  },
+  {
+    "id": "molten_salt_reactor",
+    "parent_id": "transport_technology",
+    "name": "Molten salt reactor",
+    "names": {
+      "en": "Molten salt reactor",
+      "vi": "Molten salt reactor"
+    },
+    "synonyms": {
+      "en": [],
+      "vi": []
+    },
+    "types": [
+      "technology"
+    ],
+    "level": 2,
+    "source": "wikipedia",
+    "source_url": "https://en.wikipedia.org/wiki/List_of_emerging_technologies"
+  },
+  {
+    "id": "nanowire_battery",
+    "parent_id": "transport_technology",
+    "name": "Nanowire battery",
+    "names": {
+      "en": "Nanowire battery",
+      "vi": "Nanowire battery"
+    },
+    "synonyms": {
+      "en": [],
+      "vi": []
+    },
+    "types": [
+      "technology"
+    ],
+    "level": 2,
+    "source": "wikipedia",
+    "source_url": "https://en.wikipedia.org/wiki/List_of_emerging_technologies"
+  },
+  {
+    "id": "nantenna",
+    "parent_id": "transport_technology",
+    "name": "Nantenna",
+    "names": {
+      "en": "Nantenna",
+      "vi": "Nantenna"
+    },
+    "synonyms": {
+      "en": [],
+      "vi": []
+    },
+    "types": [
+      "technology"
+    ],
+    "level": 2,
+    "source": "wikipedia",
+    "source_url": "https://en.wikipedia.org/wiki/List_of_emerging_technologies"
+  },
+  {
+    "id": "ocean_thermal_energy_conversion",
+    "parent_id": "transport_technology",
+    "name": "Ocean thermal energy conversion",
+    "names": {
+      "en": "Ocean thermal energy conversion",
+      "vi": "Ocean thermal energy conversion"
+    },
+    "synonyms": {
+      "en": [],
+      "vi": []
+    },
+    "types": [
+      "technology"
+    ],
+    "level": 2,
+    "source": "wikipedia",
+    "source_url": "https://en.wikipedia.org/wiki/List_of_emerging_technologies"
+  },
+  {
+    "id": "solid_state_battery",
+    "parent_id": "transport_technology",
+    "name": "Solid-state battery",
+    "names": {
+      "en": "Solid-state battery",
+      "vi": "Solid-state battery"
+    },
+    "synonyms": {
+      "en": [],
+      "vi": []
+    },
+    "types": [
+      "technology"
+    ],
+    "level": 2,
+    "source": "wikipedia",
+    "source_url": "https://en.wikipedia.org/wiki/List_of_emerging_technologies"
+  },
+  {
+    "id": "smart_grid",
+    "parent_id": "transport_technology",
+    "name": "Smart grid",
+    "names": {
+      "en": "Smart grid",
+      "vi": "Smart grid"
+    },
+    "synonyms": {
+      "en": [],
+      "vi": []
+    },
+    "types": [
+      "technology"
+    ],
+    "level": 2,
+    "source": "wikipedia",
+    "source_url": "https://en.wikipedia.org/wiki/List_of_emerging_technologies"
+  },
+  {
+    "id": "space_based_solar_power",
+    "parent_id": "transport_technology",
+    "name": "Space-based solar power",
+    "names": {
+      "en": "Space-based solar power",
+      "vi": "Space-based solar power"
+    },
+    "synonyms": {
+      "en": [],
+      "vi": []
+    },
+    "types": [
+      "technology"
+    ],
+    "level": 2,
+    "source": "wikipedia",
+    "source_url": "https://en.wikipedia.org/wiki/List_of_emerging_technologies"
+  },
+  {
+    "id": "thorium_nuclear_fuel_cycle",
+    "parent_id": "transport_technology",
+    "name": "Thorium nuclear fuel cycle",
+    "names": {
+      "en": "Thorium nuclear fuel cycle",
+      "vi": "Thorium nuclear fuel cycle"
+    },
+    "synonyms": {
+      "en": [],
+      "vi": []
+    },
+    "types": [
+      "technology"
+    ],
+    "level": 2,
+    "source": "wikipedia",
+    "source_url": "https://en.wikipedia.org/wiki/List_of_emerging_technologies"
+  },
+  {
+    "id": "vortex_engine",
+    "parent_id": "transport_technology",
+    "name": "Vortex engine",
+    "names": {
+      "en": "Vortex engine",
+      "vi": "Vortex engine"
+    },
+    "synonyms": {
+      "en": [],
+      "vi": []
+    },
+    "types": [
+      "technology"
+    ],
+    "level": 2,
+    "source": "wikipedia",
+    "source_url": "https://en.wikipedia.org/wiki/List_of_emerging_technologies"
+  },
+  {
+    "id": "wireless_energy_transfer",
+    "parent_id": "transport_technology",
+    "name": "Wireless energy transfer",
+    "names": {
+      "en": "Wireless energy transfer",
+      "vi": "Wireless energy transfer"
+    },
+    "synonyms": {
+      "en": [],
+      "vi": []
+    },
+    "types": [
+      "technology"
+    ],
+    "level": 2,
+    "source": "wikipedia",
+    "source_url": "https://en.wikipedia.org/wiki/List_of_emerging_technologies"
+  },
+  {
+    "id": "zero_energy_building",
+    "parent_id": "transport_technology",
+    "name": "Zero-energy building",
+    "names": {
+      "en": "Zero-energy building",
+      "vi": "Zero-energy building"
+    },
+    "synonyms": {
+      "en": [],
+      "vi": []
+    },
+    "types": [
+      "technology"
+    ],
+    "level": 2,
+    "source": "wikipedia",
+    "source_url": "https://en.wikipedia.org/wiki/List_of_emerging_technologies"
+  },
+  {
+    "id": "entertainment",
+    "parent_id": "transport_technology",
+    "name": "Entertainment",
+    "names": {
+      "en": "Entertainment",
+      "vi": "Entertainment"
+    },
+    "synonyms": {
+      "en": [],
+      "vi": []
+    },
+    "types": [
+      "technology"
+    ],
+    "level": 2,
+    "source": "wikipedia",
+    "source_url": "https://en.wikipedia.org/wiki/List_of_emerging_technologies"
+  },
+  {
+    "id": "computer_generated_imagery",
+    "parent_id": "transport_technology",
+    "name": "Computer-generated imagery",
+    "names": {
+      "en": "Computer-generated imagery",
+      "vi": "Computer-generated imagery"
+    },
+    "synonyms": {
+      "en": [],
+      "vi": []
+    },
+    "types": [
+      "technology"
+    ],
+    "level": 2,
+    "source": "wikipedia",
+    "source_url": "https://en.wikipedia.org/wiki/List_of_emerging_technologies"
+  },
+  {
+    "id": "immersive_virtual_reality",
+    "parent_id": "transport_technology",
+    "name": "Immersive virtual reality",
+    "names": {
+      "en": "Immersive virtual reality",
+      "vi": "Immersive virtual reality"
+    },
+    "synonyms": {
+      "en": [],
+      "vi": []
+    },
+    "types": [
+      "technology"
+    ],
+    "level": 2,
+    "source": "wikipedia",
+    "source_url": "https://en.wikipedia.org/wiki/List_of_emerging_technologies"
+  },
+  {
+    "id": "ultra_high_definition_television",
+    "parent_id": "transport_technology",
+    "name": "Ultra-high-definition television",
+    "names": {
+      "en": "Ultra-high-definition television",
+      "vi": "Ultra-high-definition television"
+    },
+    "synonyms": {
+      "en": [],
+      "vi": []
+    },
+    "types": [
+      "technology"
+    ],
+    "level": 2,
+    "source": "wikipedia",
+    "source_url": "https://en.wikipedia.org/wiki/List_of_emerging_technologies"
+  },
+  {
+    "id": "it_and_communications",
+    "parent_id": "transport_technology",
+    "name": "IT and communications",
+    "names": {
+      "en": "IT and communications",
+      "vi": "IT and communications"
+    },
+    "synonyms": {
+      "en": [],
+      "vi": []
+    },
+    "types": [
+      "technology"
+    ],
+    "level": 2,
+    "source": "wikipedia",
+    "source_url": "https://en.wikipedia.org/wiki/List_of_emerging_technologies"
+  },
+  {
+    "id": "5g",
+    "parent_id": "transport_technology",
+    "name": "5G",
+    "names": {
+      "en": "5G",
+      "vi": "5G"
+    },
+    "synonyms": {
+      "en": [],
+      "vi": []
+    },
+    "types": [
+      "technology"
+    ],
+    "level": 2,
+    "source": "wikipedia",
+    "source_url": "https://en.wikipedia.org/wiki/List_of_emerging_technologies"
+  },
+  {
+    "id": "6g",
+    "parent_id": "transport_technology",
+    "name": "6G",
+    "names": {
+      "en": "6G",
+      "vi": "6G"
+    },
+    "synonyms": {
+      "en": [],
+      "vi": []
+    },
+    "types": [
+      "technology"
+    ],
+    "level": 2,
+    "source": "wikipedia",
+    "source_url": "https://en.wikipedia.org/wiki/List_of_emerging_technologies"
+  },
+  {
+    "id": "ambient_intelligence",
+    "parent_id": "transport_technology",
+    "name": "Ambient intelligence",
+    "names": {
+      "en": "Ambient intelligence",
+      "vi": "Ambient intelligence"
+    },
+    "synonyms": {
+      "en": [],
+      "vi": []
+    },
+    "types": [
+      "technology"
+    ],
+    "level": 2,
+    "source": "wikipedia",
+    "source_url": "https://en.wikipedia.org/wiki/List_of_emerging_technologies"
+  },
+  {
+    "id": "artificial_brain",
+    "parent_id": "transport_technology",
+    "name": "Artificial brain",
+    "names": {
+      "en": "Artificial brain",
+      "vi": "Artificial brain"
+    },
+    "synonyms": {
+      "en": [],
+      "vi": []
+    },
+    "types": [
+      "technology"
+    ],
+    "level": 2,
+    "source": "wikipedia",
+    "source_url": "https://en.wikipedia.org/wiki/List_of_emerging_technologies"
+  },
+  {
+    "id": "artificial_general_intelligence",
+    "parent_id": "transport_technology",
+    "name": "Artificial general intelligence",
+    "names": {
+      "en": "Artificial general intelligence",
+      "vi": "Artificial general intelligence"
+    },
+    "synonyms": {
+      "en": [],
+      "vi": []
+    },
+    "types": [
+      "technology"
+    ],
+    "level": 2,
+    "source": "wikipedia",
+    "source_url": "https://en.wikipedia.org/wiki/List_of_emerging_technologies"
+  },
+  {
+    "id": "atomtronics",
+    "parent_id": "transport_technology",
+    "name": "Atomtronics",
+    "names": {
+      "en": "Atomtronics",
+      "vi": "Atomtronics"
+    },
+    "synonyms": {
+      "en": [],
+      "vi": []
+    },
+    "types": [
+      "technology"
+    ],
+    "level": 2,
+    "source": "wikipedia",
+    "source_url": "https://en.wikipedia.org/wiki/List_of_emerging_technologies"
+  },
+  {
+    "id": "augmented_reality",
+    "parent_id": "transport_technology",
+    "name": "Augmented reality",
+    "names": {
+      "en": "Augmented reality",
+      "vi": "Augmented reality"
+    },
+    "synonyms": {
+      "en": [],
+      "vi": []
+    },
+    "types": [
+      "technology"
+    ],
+    "level": 2,
+    "source": "wikipedia",
+    "source_url": "https://en.wikipedia.org/wiki/List_of_emerging_technologies"
+  },
+  {
+    "id": "blockchain",
+    "parent_id": "transport_technology",
+    "name": "Blockchain",
+    "names": {
+      "en": "Blockchain",
+      "vi": "Blockchain"
+    },
+    "synonyms": {
+      "en": [],
+      "vi": []
+    },
+    "types": [
+      "technology"
+    ],
+    "level": 2,
+    "source": "wikipedia",
+    "source_url": "https://en.wikipedia.org/wiki/List_of_emerging_technologies"
+  },
+  {
+    "id": "carbon_nanotube_field_effect_transistor",
+    "parent_id": "transport_technology",
+    "name": "Carbon nanotube field-effect transistor",
+    "names": {
+      "en": "Carbon nanotube field-effect transistor",
+      "vi": "Carbon nanotube field-effect transistor"
+    },
+    "synonyms": {
+      "en": [],
+      "vi": []
+    },
+    "types": [
+      "technology"
+    ],
+    "level": 2,
+    "source": "wikipedia",
+    "source_url": "https://en.wikipedia.org/wiki/List_of_emerging_technologies"
+  },
+  {
+    "id": "civic_technology",
+    "parent_id": "transport_technology",
+    "name": "Civic technology",
+    "names": {
+      "en": "Civic technology",
+      "vi": "Civic technology"
+    },
+    "synonyms": {
+      "en": [],
+      "vi": []
+    },
+    "types": [
+      "technology"
+    ],
+    "level": 2,
+    "source": "wikipedia",
+    "source_url": "https://en.wikipedia.org/wiki/List_of_emerging_technologies"
+  },
+  {
+    "id": "cryptocurrency",
+    "parent_id": "transport_technology",
+    "name": "Cryptocurrency",
+    "names": {
+      "en": "Cryptocurrency",
+      "vi": "Cryptocurrency"
+    },
+    "synonyms": {
+      "en": [],
+      "vi": []
+    },
+    "types": [
+      "technology"
+    ],
+    "level": 2,
+    "source": "wikipedia",
+    "source_url": "https://en.wikipedia.org/wiki/List_of_emerging_technologies"
+  },
+  {
+    "id": "dna_digital_data_storage",
+    "parent_id": "transport_technology",
+    "name": "DNA digital data storage",
+    "names": {
+      "en": "DNA digital data storage",
+      "vi": "DNA digital data storage"
+    },
+    "synonyms": {
+      "en": [],
+      "vi": []
+    },
+    "types": [
+      "technology"
+    ],
+    "level": 2,
+    "source": "wikipedia",
+    "source_url": "https://en.wikipedia.org/wiki/List_of_emerging_technologies"
+  },
+  {
+    "id": "exascale_computing",
+    "parent_id": "transport_technology",
+    "name": "Exascale computing",
+    "names": {
+      "en": "Exascale computing",
+      "vi": "Exascale computing"
+    },
+    "synonyms": {
+      "en": [],
+      "vi": []
+    },
+    "types": [
+      "technology"
+    ],
+    "level": 2,
+    "source": "wikipedia",
+    "source_url": "https://en.wikipedia.org/wiki/List_of_emerging_technologies"
+  },
+  {
+    "id": "gesture_recognition",
+    "parent_id": "transport_technology",
+    "name": "Gesture recognition",
+    "names": {
+      "en": "Gesture recognition",
+      "vi": "Gesture recognition"
+    },
+    "synonyms": {
+      "en": [],
+      "vi": []
+    },
+    "types": [
+      "technology"
+    ],
+    "level": 2,
+    "source": "wikipedia",
+    "source_url": "https://en.wikipedia.org/wiki/List_of_emerging_technologies"
+  },
+  {
+    "id": "internet_of_things",
+    "parent_id": "transport_technology",
+    "name": "Internet of Things",
+    "names": {
+      "en": "Internet of Things",
+      "vi": "Internet of Things"
+    },
+    "synonyms": {
+      "en": [],
+      "vi": []
+    },
+    "types": [
+      "technology"
+    ],
+    "level": 2,
+    "source": "wikipedia",
+    "source_url": "https://en.wikipedia.org/wiki/List_of_emerging_technologies"
+  },
+  {
+    "id": "fourth_generation_optical_discs",
+    "parent_id": "transport_technology",
+    "name": "Fourth-generation optical discs",
+    "names": {
+      "en": "Fourth-generation optical discs",
+      "vi": "Fourth-generation optical discs"
+    },
+    "synonyms": {
+      "en": [],
+      "vi": []
+    },
+    "types": [
+      "technology"
+    ],
+    "level": 2,
+    "source": "wikipedia",
+    "source_url": "https://en.wikipedia.org/wiki/List_of_emerging_technologies"
+  },
+  {
+    "id": "3d_optical_data_storage",
+    "parent_id": "transport_technology",
+    "name": "3D optical data storage",
+    "names": {
+      "en": "3D optical data storage",
+      "vi": "3D optical data storage"
+    },
+    "synonyms": {
+      "en": [],
+      "vi": []
+    },
+    "types": [
+      "technology"
+    ],
+    "level": 2,
+    "source": "wikipedia",
+    "source_url": "https://en.wikipedia.org/wiki/List_of_emerging_technologies"
+  },
+  {
+    "id": "holographic_data_storage",
+    "parent_id": "transport_technology",
+    "name": "Holographic data storage",
+    "names": {
+      "en": "Holographic data storage",
+      "vi": "Holographic data storage"
+    },
+    "synonyms": {
+      "en": [],
+      "vi": []
+    },
+    "types": [
+      "technology"
+    ],
+    "level": 2,
+    "source": "wikipedia",
+    "source_url": "https://en.wikipedia.org/wiki/List_of_emerging_technologies"
+  },
+  {
+    "id": "general_purpose_computing_on_graphics_processing_units",
+    "parent_id": "transport_technology",
+    "name": "General-purpose computing on graphics processing units",
+    "names": {
+      "en": "General-purpose computing on graphics processing units",
+      "vi": "General-purpose computing on graphics processing units"
+    },
+    "synonyms": {
+      "en": [],
+      "vi": []
+    },
+    "types": [
+      "technology"
+    ],
+    "level": 2,
+    "source": "wikipedia",
+    "source_url": "https://en.wikipedia.org/wiki/List_of_emerging_technologies"
+  },
+  {
+    "id": "exocortex",
+    "parent_id": "transport_technology",
+    "name": "Exocortex",
+    "names": {
+      "en": "Exocortex",
+      "vi": "Exocortex"
+    },
+    "synonyms": {
+      "en": [],
+      "vi": []
+    },
+    "types": [
+      "technology"
+    ],
+    "level": 2,
+    "source": "wikipedia",
+    "source_url": "https://en.wikipedia.org/wiki/List_of_emerging_technologies"
+  },
+  {
+    "id": "li_fi",
+    "parent_id": "transport_technology",
+    "name": "Li-Fi",
+    "names": {
+      "en": "Li-Fi",
+      "vi": "Li-Fi"
+    },
+    "synonyms": {
+      "en": [],
+      "vi": []
+    },
+    "types": [
+      "technology"
+    ],
+    "level": 2,
+    "source": "wikipedia",
+    "source_url": "https://en.wikipedia.org/wiki/List_of_emerging_technologies"
+  },
+  {
+    "id": "machine_translation",
+    "parent_id": "transport_technology",
+    "name": "Machine translation",
+    "names": {
+      "en": "Machine translation",
+      "vi": "Machine translation"
+    },
+    "synonyms": {
+      "en": [],
+      "vi": []
+    },
+    "types": [
+      "technology"
+    ],
+    "level": 2,
+    "source": "wikipedia",
+    "source_url": "https://en.wikipedia.org/wiki/List_of_emerging_technologies"
+  },
+  {
+    "id": "machine_vision",
+    "parent_id": "transport_technology",
+    "name": "Machine vision",
+    "names": {
+      "en": "Machine vision",
+      "vi": "Machine vision"
+    },
+    "synonyms": {
+      "en": [],
+      "vi": []
+    },
+    "types": [
+      "technology"
+    ],
+    "level": 2,
+    "source": "wikipedia",
+    "source_url": "https://en.wikipedia.org/wiki/List_of_emerging_technologies"
+  },
+  {
+    "id": "mobile_collaboration",
+    "parent_id": "transport_technology",
+    "name": "Mobile collaboration",
+    "names": {
+      "en": "Mobile collaboration",
+      "vi": "Mobile collaboration"
+    },
+    "synonyms": {
+      "en": [],
+      "vi": []
+    },
+    "types": [
+      "technology"
+    ],
+    "level": 2,
+    "source": "wikipedia",
+    "source_url": "https://en.wikipedia.org/wiki/List_of_emerging_technologies"
+  },
+  {
+    "id": "e_learning",
+    "parent_id": "transport_technology",
+    "name": "e-learning",
+    "names": {
+      "en": "e-learning",
+      "vi": "e-learning"
+    },
+    "synonyms": {
+      "en": [],
+      "vi": []
+    },
+    "types": [
+      "technology"
+    ],
+    "level": 2,
+    "source": "wikipedia",
+    "source_url": "https://en.wikipedia.org/wiki/List_of_emerging_technologies"
+  },
+  {
+    "id": "multimodal_contactless_biometric_face/iris_systems",
+    "parent_id": "transport_technology",
+    "name": "Multimodal contactless biometric face/iris systems",
+    "names": {
+      "en": "Multimodal contactless biometric face/iris systems",
+      "vi": "Multimodal contactless biometric face/iris systems"
+    },
+    "synonyms": {
+      "en": [],
+      "vi": []
+    },
+    "types": [
+      "technology"
+    ],
+    "level": 2,
+    "source": "wikipedia",
+    "source_url": "https://en.wikipedia.org/wiki/List_of_emerging_technologies"
+  },
+  {
+    "id": "nanoradio",
+    "parent_id": "transport_technology",
+    "name": "Nanoradio",
+    "names": {
+      "en": "Nanoradio",
+      "vi": "Nanoradio"
+    },
+    "synonyms": {
+      "en": [],
+      "vi": []
+    },
+    "types": [
+      "technology"
+    ],
+    "level": 2,
+    "source": "wikipedia",
+    "source_url": "https://en.wikipedia.org/wiki/List_of_emerging_technologies"
+  },
+  {
+    "id": "navigation_doppler_lidar",
+    "parent_id": "transport_technology",
+    "name": "Navigation Doppler lidar",
+    "names": {
+      "en": "Navigation Doppler lidar",
+      "vi": "Navigation Doppler lidar"
+    },
+    "synonyms": {
+      "en": [],
+      "vi": []
+    },
+    "types": [
+      "technology"
+    ],
+    "level": 2,
+    "source": "wikipedia",
+    "source_url": "https://en.wikipedia.org/wiki/List_of_emerging_technologies"
+  },
+  {
+    "id": "neuromorphic_engineering",
+    "parent_id": "transport_technology",
+    "name": "Neuromorphic engineering",
+    "names": {
+      "en": "Neuromorphic engineering",
+      "vi": "Neuromorphic engineering"
+    },
+    "synonyms": {
+      "en": [],
+      "vi": []
+    },
+    "types": [
+      "technology"
+    ],
+    "level": 2,
+    "source": "wikipedia",
+    "source_url": "https://en.wikipedia.org/wiki/List_of_emerging_technologies"
+  },
+  {
+    "id": "optical_computing",
+    "parent_id": "transport_technology",
+    "name": "Optical computing",
+    "names": {
+      "en": "Optical computing",
+      "vi": "Optical computing"
+    },
+    "synonyms": {
+      "en": [],
+      "vi": []
+    },
+    "types": [
+      "technology"
+    ],
+    "level": 2,
+    "source": "wikipedia",
+    "source_url": "https://en.wikipedia.org/wiki/List_of_emerging_technologies"
+  },
+  {
+    "id": "quantum_computing",
+    "parent_id": "transport_technology",
+    "name": "Quantum computing",
+    "names": {
+      "en": "Quantum computing",
+      "vi": "Quantum computing"
+    },
+    "synonyms": {
+      "en": [],
+      "vi": []
+    },
+    "types": [
+      "technology"
+    ],
+    "level": 2,
+    "source": "wikipedia",
+    "source_url": "https://en.wikipedia.org/wiki/List_of_emerging_technologies"
+  },
+  {
+    "id": "quantum_cryptography",
+    "parent_id": "transport_technology",
+    "name": "Quantum cryptography",
+    "names": {
+      "en": "Quantum cryptography",
+      "vi": "Quantum cryptography"
+    },
+    "synonyms": {
+      "en": [],
+      "vi": []
+    },
+    "types": [
+      "technology"
+    ],
+    "level": 2,
+    "source": "wikipedia",
+    "source_url": "https://en.wikipedia.org/wiki/List_of_emerging_technologies"
+  },
+  {
+    "id": "quantum_radar",
+    "parent_id": "transport_technology",
+    "name": "Quantum radar",
+    "names": {
+      "en": "Quantum radar",
+      "vi": "Quantum radar"
+    },
+    "synonyms": {
+      "en": [],
+      "vi": []
+    },
+    "types": [
+      "technology"
+    ],
+    "level": 2,
+    "source": "wikipedia",
+    "source_url": "https://en.wikipedia.org/wiki/List_of_emerging_technologies"
+  },
+  {
+    "id": "radio_frequency_identification",
+    "parent_id": "transport_technology",
+    "name": "Radio-frequency identification",
+    "names": {
+      "en": "Radio-frequency identification",
+      "vi": "Radio-frequency identification"
+    },
+    "synonyms": {
+      "en": [],
+      "vi": []
+    },
+    "types": [
+      "technology"
+    ],
+    "level": 2,
+    "source": "wikipedia",
+    "source_url": "https://en.wikipedia.org/wiki/List_of_emerging_technologies"
+  },
+  {
+    "id": "semantic_web",
+    "parent_id": "transport_technology",
+    "name": "Semantic Web",
+    "names": {
+      "en": "Semantic Web",
+      "vi": "Semantic Web"
+    },
+    "synonyms": {
+      "en": [],
+      "vi": []
+    },
+    "types": [
+      "technology"
+    ],
+    "level": 2,
+    "source": "wikipedia",
+    "source_url": "https://en.wikipedia.org/wiki/List_of_emerging_technologies"
+  },
+  {
+    "id": "smart_speaker",
+    "parent_id": "transport_technology",
+    "name": "Smart speaker",
+    "names": {
+      "en": "Smart speaker",
+      "vi": "Smart speaker"
+    },
+    "synonyms": {
+      "en": [],
+      "vi": []
+    },
+    "types": [
+      "technology"
+    ],
+    "level": 2,
+    "source": "wikipedia",
+    "source_url": "https://en.wikipedia.org/wiki/List_of_emerging_technologies"
+  },
+  {
+    "id": "software_defined_radio",
+    "parent_id": "transport_technology",
+    "name": "Software-defined radio",
+    "names": {
+      "en": "Software-defined radio",
+      "vi": "Software-defined radio"
+    },
+    "synonyms": {
+      "en": [],
+      "vi": []
+    },
+    "types": [
+      "technology"
+    ],
+    "level": 2,
+    "source": "wikipedia",
+    "source_url": "https://en.wikipedia.org/wiki/List_of_emerging_technologies"
+  },
+  {
+    "id": "speech_recognition",
+    "parent_id": "transport_technology",
+    "name": "Speech recognition",
+    "names": {
+      "en": "Speech recognition",
+      "vi": "Speech recognition"
+    },
+    "synonyms": {
+      "en": [],
+      "vi": []
+    },
+    "types": [
+      "technology"
+    ],
+    "level": 2,
+    "source": "wikipedia",
+    "source_url": "https://en.wikipedia.org/wiki/List_of_emerging_technologies"
+  },
+  {
+    "id": "subvocal_recognition",
+    "parent_id": "transport_technology",
+    "name": "Subvocal recognition",
+    "names": {
+      "en": "Subvocal recognition",
+      "vi": "Subvocal recognition"
+    },
+    "synonyms": {
+      "en": [],
+      "vi": []
+    },
+    "types": [
+      "technology"
+    ],
+    "level": 2,
+    "source": "wikipedia",
+    "source_url": "https://en.wikipedia.org/wiki/List_of_emerging_technologies"
+  },
+  {
+    "id": "virtual_reality",
+    "parent_id": "transport_technology",
+    "name": "Virtual Reality",
+    "names": {
+      "en": "Virtual Reality",
+      "vi": "Virtual Reality"
+    },
+    "synonyms": {
+      "en": [],
+      "vi": []
+    },
+    "types": [
+      "technology"
+    ],
+    "level": 2,
+    "source": "wikipedia",
+    "source_url": "https://en.wikipedia.org/wiki/List_of_emerging_technologies"
+  },
+  {
+    "id": "x_ray_communication",
+    "parent_id": "transport_technology",
+    "name": "X-ray communication",
+    "names": {
+      "en": "X-ray communication",
+      "vi": "X-ray communication"
+    },
+    "synonyms": {
+      "en": [],
+      "vi": []
+    },
+    "types": [
+      "technology"
+    ],
+    "level": 2,
+    "source": "wikipedia",
+    "source_url": "https://en.wikipedia.org/wiki/List_of_emerging_technologies"
+  },
+  {
+    "id": "medical",
+    "parent_id": "transport_technology",
+    "name": "Medical",
+    "names": {
+      "en": "Medical",
+      "vi": "Medical"
+    },
+    "synonyms": {
+      "en": [],
+      "vi": []
+    },
+    "types": [
+      "technology"
+    ],
+    "level": 2,
+    "source": "wikipedia",
+    "source_url": "https://en.wikipedia.org/wiki/List_of_emerging_technologies"
+  },
+  {
+    "id": "artificial_uterus",
+    "parent_id": "transport_technology",
+    "name": "Artificial uterus",
+    "names": {
+      "en": "Artificial uterus",
+      "vi": "Artificial uterus"
+    },
+    "synonyms": {
+      "en": [],
+      "vi": []
+    },
+    "types": [
+      "technology"
+    ],
+    "level": 2,
+    "source": "wikipedia",
+    "source_url": "https://en.wikipedia.org/wiki/List_of_emerging_technologies"
+  },
+  {
+    "id": "body_implants",
+    "parent_id": "transport_technology",
+    "name": "Body implants",
+    "names": {
+      "en": "Body implants",
+      "vi": "Body implants"
+    },
+    "synonyms": {
+      "en": [],
+      "vi": []
+    },
+    "types": [
+      "technology"
+    ],
+    "level": 2,
+    "source": "wikipedia",
+    "source_url": "https://en.wikipedia.org/wiki/List_of_emerging_technologies"
+  },
+  {
+    "id": "prosthesis",
+    "parent_id": "transport_technology",
+    "name": "prosthesis",
+    "names": {
+      "en": "prosthesis",
+      "vi": "prosthesis"
+    },
+    "synonyms": {
+      "en": [],
+      "vi": []
+    },
+    "types": [
+      "technology"
+    ],
+    "level": 2,
+    "source": "wikipedia",
+    "source_url": "https://en.wikipedia.org/wiki/List_of_emerging_technologies"
+  },
+  {
+    "id": "cryonics",
+    "parent_id": "transport_technology",
+    "name": "Cryonics",
+    "names": {
+      "en": "Cryonics",
+      "vi": "Cryonics"
+    },
+    "synonyms": {
+      "en": [],
+      "vi": []
+    },
+    "types": [
+      "technology"
+    ],
+    "level": 2,
+    "source": "wikipedia",
+    "source_url": "https://en.wikipedia.org/wiki/List_of_emerging_technologies"
+  },
+  {
+    "id": "de_extinction",
+    "parent_id": "transport_technology",
+    "name": "De-extinction",
+    "names": {
+      "en": "De-extinction",
+      "vi": "De-extinction"
+    },
+    "synonyms": {
+      "en": [],
+      "vi": []
+    },
+    "types": [
+      "technology"
+    ],
+    "level": 2,
+    "source": "wikipedia",
+    "source_url": "https://en.wikipedia.org/wiki/List_of_emerging_technologies"
+  },
+  {
+    "id": "dna_vaccination",
+    "parent_id": "transport_technology",
+    "name": "DNA vaccination",
+    "names": {
+      "en": "DNA vaccination",
+      "vi": "DNA vaccination"
+    },
+    "synonyms": {
+      "en": [],
+      "vi": []
+    },
+    "types": [
+      "technology"
+    ],
+    "level": 2,
+    "source": "wikipedia",
+    "source_url": "https://en.wikipedia.org/wiki/List_of_emerging_technologies"
+  },
+  {
+    "id": "enzybiotics",
+    "parent_id": "transport_technology",
+    "name": "Enzybiotics",
+    "names": {
+      "en": "Enzybiotics",
+      "vi": "Enzybiotics"
+    },
+    "synonyms": {
+      "en": [],
+      "vi": []
+    },
+    "types": [
+      "technology"
+    ],
+    "level": 2,
+    "source": "wikipedia",
+    "source_url": "https://en.wikipedia.org/wiki/List_of_emerging_technologies"
+  },
+  {
+    "id": "genetic_engineering",
+    "parent_id": "transport_technology",
+    "name": "Genetic engineering",
+    "names": {
+      "en": "Genetic engineering",
+      "vi": "Genetic engineering"
+    },
+    "synonyms": {
+      "en": [],
+      "vi": []
+    },
+    "types": [
+      "technology"
+    ],
+    "level": 2,
+    "source": "wikipedia",
+    "source_url": "https://en.wikipedia.org/wiki/List_of_emerging_technologies"
+  },
+  {
+    "id": "hibernation",
+    "parent_id": "transport_technology",
+    "name": "Hibernation",
+    "names": {
+      "en": "Hibernation",
+      "vi": "Hibernation"
+    },
+    "synonyms": {
+      "en": [],
+      "vi": []
+    },
+    "types": [
+      "technology"
+    ],
+    "level": 2,
+    "source": "wikipedia",
+    "source_url": "https://en.wikipedia.org/wiki/List_of_emerging_technologies"
+  },
+  {
+    "id": "suspended_animation",
+    "parent_id": "transport_technology",
+    "name": "suspended animation",
+    "names": {
+      "en": "suspended animation",
+      "vi": "suspended animation"
+    },
+    "synonyms": {
+      "en": [],
+      "vi": []
+    },
+    "types": [
+      "technology"
+    ],
+    "level": 2,
+    "source": "wikipedia",
+    "source_url": "https://en.wikipedia.org/wiki/List_of_emerging_technologies"
+  },
+  {
+    "id": "life_extension",
+    "parent_id": "transport_technology",
+    "name": "Life extension",
+    "names": {
+      "en": "Life extension",
+      "vi": "Life extension"
+    },
+    "synonyms": {
+      "en": [],
+      "vi": []
+    },
+    "types": [
+      "technology"
+    ],
+    "level": 2,
+    "source": "wikipedia",
+    "source_url": "https://en.wikipedia.org/wiki/List_of_emerging_technologies"
+  },
+  {
+    "id": "strategies_for_engineered_negligible_senescence",
+    "parent_id": "transport_technology",
+    "name": "Strategies for Engineered Negligible Senescence",
+    "names": {
+      "en": "Strategies for Engineered Negligible Senescence",
+      "vi": "Strategies for Engineered Negligible Senescence"
+    },
+    "synonyms": {
+      "en": [],
+      "vi": []
+    },
+    "types": [
+      "technology"
+    ],
+    "level": 2,
+    "source": "wikipedia",
+    "source_url": "https://en.wikipedia.org/wiki/List_of_emerging_technologies"
+  },
+  {
+    "id": "nanomedicine",
+    "parent_id": "transport_technology",
+    "name": "Nanomedicine",
+    "names": {
+      "en": "Nanomedicine",
+      "vi": "Nanomedicine"
+    },
+    "synonyms": {
+      "en": [],
+      "vi": []
+    },
+    "types": [
+      "technology"
+    ],
+    "level": 2,
+    "source": "wikipedia",
+    "source_url": "https://en.wikipedia.org/wiki/List_of_emerging_technologies"
+  },
+  {
+    "id": "nanosensors",
+    "parent_id": "transport_technology",
+    "name": "Nanosensors",
+    "names": {
+      "en": "Nanosensors",
+      "vi": "Nanosensors"
+    },
+    "synonyms": {
+      "en": [],
+      "vi": []
+    },
+    "types": [
+      "technology"
+    ],
+    "level": 2,
+    "source": "wikipedia",
+    "source_url": "https://en.wikipedia.org/wiki/List_of_emerging_technologies"
+  },
+  {
+    "id": "omni_processor",
+    "parent_id": "transport_technology",
+    "name": "Omni Processor",
+    "names": {
+      "en": "Omni Processor",
+      "vi": "Omni Processor"
+    },
+    "synonyms": {
+      "en": [],
+      "vi": []
+    },
+    "types": [
+      "technology"
+    ],
+    "level": 2,
+    "source": "wikipedia",
+    "source_url": "https://en.wikipedia.org/wiki/List_of_emerging_technologies"
+  },
+  {
+    "id": "oncolytic_virus",
+    "parent_id": "transport_technology",
+    "name": "Oncolytic virus",
+    "names": {
+      "en": "Oncolytic virus",
+      "vi": "Oncolytic virus"
+    },
+    "synonyms": {
+      "en": [],
+      "vi": []
+    },
+    "types": [
+      "technology"
+    ],
+    "level": 2,
+    "source": "wikipedia",
+    "source_url": "https://en.wikipedia.org/wiki/List_of_emerging_technologies"
+  },
+  {
+    "id": "personalized_medicine",
+    "parent_id": "transport_technology",
+    "name": "Personalized medicine",
+    "names": {
+      "en": "Personalized medicine",
+      "vi": "Personalized medicine"
+    },
+    "synonyms": {
+      "en": [],
+      "vi": []
+    },
+    "types": [
+      "technology"
+    ],
+    "level": 2,
+    "source": "wikipedia",
+    "source_url": "https://en.wikipedia.org/wiki/List_of_emerging_technologies"
+  },
+  {
+    "id": "full_genome_sequencing",
+    "parent_id": "transport_technology",
+    "name": "full genome sequencing",
+    "names": {
+      "en": "full genome sequencing",
+      "vi": "full genome sequencing"
+    },
+    "synonyms": {
+      "en": [],
+      "vi": []
+    },
+    "types": [
+      "technology"
+    ],
+    "level": 2,
+    "source": "wikipedia",
+    "source_url": "https://en.wikipedia.org/wiki/List_of_emerging_technologies"
+  },
+  {
+    "id": "phage_therapy",
+    "parent_id": "transport_technology",
+    "name": "Phage therapy",
+    "names": {
+      "en": "Phage therapy",
+      "vi": "Phage therapy"
+    },
+    "synonyms": {
+      "en": [],
+      "vi": []
+    },
+    "types": [
+      "technology"
+    ],
+    "level": 2,
+    "source": "wikipedia",
+    "source_url": "https://en.wikipedia.org/wiki/List_of_emerging_technologies"
+  },
+  {
+    "id": "plantibody",
+    "parent_id": "transport_technology",
+    "name": "Plantibody",
+    "names": {
+      "en": "Plantibody",
+      "vi": "Plantibody"
+    },
+    "synonyms": {
+      "en": [],
+      "vi": []
+    },
+    "types": [
+      "technology"
+    ],
+    "level": 2,
+    "source": "wikipedia",
+    "source_url": "https://en.wikipedia.org/wiki/List_of_emerging_technologies"
+  },
+  {
+    "id": "regenerative_medicine",
+    "parent_id": "transport_technology",
+    "name": "Regenerative medicine",
+    "names": {
+      "en": "Regenerative medicine",
+      "vi": "Regenerative medicine"
+    },
+    "synonyms": {
+      "en": [],
+      "vi": []
+    },
+    "types": [
+      "technology"
+    ],
+    "level": 2,
+    "source": "wikipedia",
+    "source_url": "https://en.wikipedia.org/wiki/List_of_emerging_technologies"
+  },
+  {
+    "id": "robotic_surgery",
+    "parent_id": "transport_technology",
+    "name": "Robotic surgery",
+    "names": {
+      "en": "Robotic surgery",
+      "vi": "Robotic surgery"
+    },
+    "synonyms": {
+      "en": [],
+      "vi": []
+    },
+    "types": [
+      "technology"
+    ],
+    "level": 2,
+    "source": "wikipedia",
+    "source_url": "https://en.wikipedia.org/wiki/List_of_emerging_technologies"
+  },
+  {
+    "id": "senolytic",
+    "parent_id": "transport_technology",
+    "name": "Senolytic",
+    "names": {
+      "en": "Senolytic",
+      "vi": "Senolytic"
+    },
+    "synonyms": {
+      "en": [],
+      "vi": []
+    },
+    "types": [
+      "technology"
+    ],
+    "level": 2,
+    "source": "wikipedia",
+    "source_url": "https://en.wikipedia.org/wiki/List_of_emerging_technologies"
+  },
+  {
+    "id": "stem_cell_treatments",
+    "parent_id": "transport_technology",
+    "name": "Stem cell treatments",
+    "names": {
+      "en": "Stem cell treatments",
+      "vi": "Stem cell treatments"
+    },
+    "synonyms": {
+      "en": [],
+      "vi": []
+    },
+    "types": [
+      "technology"
+    ],
+    "level": 2,
+    "source": "wikipedia",
+    "source_url": "https://en.wikipedia.org/wiki/List_of_emerging_technologies"
+  },
+  {
+    "id": "synthetic_biology",
+    "parent_id": "transport_technology",
+    "name": "Synthetic biology",
+    "names": {
+      "en": "Synthetic biology",
+      "vi": "Synthetic biology"
+    },
+    "synonyms": {
+      "en": [],
+      "vi": []
+    },
+    "types": [
+      "technology"
+    ],
+    "level": 2,
+    "source": "wikipedia",
+    "source_url": "https://en.wikipedia.org/wiki/List_of_emerging_technologies"
+  },
+  {
+    "id": "synthetic_genomics",
+    "parent_id": "transport_technology",
+    "name": "synthetic genomics",
+    "names": {
+      "en": "synthetic genomics",
+      "vi": "synthetic genomics"
+    },
+    "synonyms": {
+      "en": [],
+      "vi": []
+    },
+    "types": [
+      "technology"
+    ],
+    "level": 2,
+    "source": "wikipedia",
+    "source_url": "https://en.wikipedia.org/wiki/List_of_emerging_technologies"
+  },
+  {
+    "id": "tissue_engineering",
+    "parent_id": "transport_technology",
+    "name": "Tissue engineering",
+    "names": {
+      "en": "Tissue engineering",
+      "vi": "Tissue engineering"
+    },
+    "synonyms": {
+      "en": [],
+      "vi": []
+    },
+    "types": [
+      "technology"
+    ],
+    "level": 2,
+    "source": "wikipedia",
+    "source_url": "https://en.wikipedia.org/wiki/List_of_emerging_technologies"
+  },
+  {
+    "id": "tricorder",
+    "parent_id": "transport_technology",
+    "name": "Tricorder",
+    "names": {
+      "en": "Tricorder",
+      "vi": "Tricorder"
+    },
+    "synonyms": {
+      "en": [],
+      "vi": []
+    },
+    "types": [
+      "technology"
+    ],
+    "level": 2,
+    "source": "wikipedia",
+    "source_url": "https://en.wikipedia.org/wiki/List_of_emerging_technologies"
+  },
+  {
+    "id": "virotherapy",
+    "parent_id": "transport_technology",
+    "name": "Virotherapy",
+    "names": {
+      "en": "Virotherapy",
+      "vi": "Virotherapy"
+    },
+    "synonyms": {
+      "en": [],
+      "vi": []
+    },
+    "types": [
+      "technology"
+    ],
+    "level": 2,
+    "source": "wikipedia",
+    "source_url": "https://en.wikipedia.org/wiki/List_of_emerging_technologies"
+  },
+  {
+    "id": "vitrification",
+    "parent_id": "transport_technology",
+    "name": "Vitrification",
+    "names": {
+      "en": "Vitrification",
+      "vi": "Vitrification"
+    },
+    "synonyms": {
+      "en": [],
+      "vi": []
+    },
+    "types": [
+      "technology"
+    ],
+    "level": 2,
+    "source": "wikipedia",
+    "source_url": "https://en.wikipedia.org/wiki/List_of_emerging_technologies"
+  },
+  {
+    "id": "cryoprotectant",
+    "parent_id": "transport_technology",
+    "name": "cryoprotectant",
+    "names": {
+      "en": "cryoprotectant",
+      "vi": "cryoprotectant"
+    },
+    "synonyms": {
+      "en": [],
+      "vi": []
+    },
+    "types": [
+      "technology"
+    ],
+    "level": 2,
+    "source": "wikipedia",
+    "source_url": "https://en.wikipedia.org/wiki/List_of_emerging_technologies"
+  },
+  {
+    "id": "neuroscience",
+    "parent_id": "transport_technology",
+    "name": "Neuroscience",
+    "names": {
+      "en": "Neuroscience",
+      "vi": "Neuroscience"
+    },
+    "synonyms": {
+      "en": [],
+      "vi": []
+    },
+    "types": [
+      "technology"
+    ],
+    "level": 2,
+    "source": "wikipedia",
+    "source_url": "https://en.wikipedia.org/wiki/List_of_emerging_technologies"
+  },
+  {
+    "id": "brain_computer_interface",
+    "parent_id": "transport_technology",
+    "name": "Brain-computer interface",
+    "names": {
+      "en": "Brain-computer interface",
+      "vi": "Brain-computer interface"
+    },
+    "synonyms": {
+      "en": [],
+      "vi": []
+    },
+    "types": [
+      "technology"
+    ],
+    "level": 2,
+    "source": "wikipedia",
+    "source_url": "https://en.wikipedia.org/wiki/List_of_emerging_technologies"
+  },
+  {
+    "id": "brain_reading",
+    "parent_id": "transport_technology",
+    "name": "Brain-reading",
+    "names": {
+      "en": "Brain-reading",
+      "vi": "Brain-reading"
+    },
+    "synonyms": {
+      "en": [],
+      "vi": []
+    },
+    "types": [
+      "technology"
+    ],
+    "level": 2,
+    "source": "wikipedia",
+    "source_url": "https://en.wikipedia.org/wiki/List_of_emerging_technologies"
+  },
+  {
+    "id": "neuroinformatics",
+    "parent_id": "transport_technology",
+    "name": "Neuroinformatics",
+    "names": {
+      "en": "Neuroinformatics",
+      "vi": "Neuroinformatics"
+    },
+    "synonyms": {
+      "en": [],
+      "vi": []
+    },
+    "types": [
+      "technology"
+    ],
+    "level": 2,
+    "source": "wikipedia",
+    "source_url": "https://en.wikipedia.org/wiki/List_of_emerging_technologies"
+  },
+  {
+    "id": "electroencephalography",
+    "parent_id": "transport_technology",
+    "name": "Electroencephalography",
+    "names": {
+      "en": "Electroencephalography",
+      "vi": "Electroencephalography"
+    },
+    "synonyms": {
+      "en": [],
+      "vi": []
+    },
+    "types": [
+      "technology"
+    ],
+    "level": 2,
+    "source": "wikipedia",
+    "source_url": "https://en.wikipedia.org/wiki/List_of_emerging_technologies"
+  },
+  {
+    "id": "head_transplant",
+    "parent_id": "transport_technology",
+    "name": "Head transplant",
+    "names": {
+      "en": "Head transplant",
+      "vi": "Head transplant"
+    },
+    "synonyms": {
+      "en": [],
+      "vi": []
+    },
+    "types": [
+      "technology"
+    ],
+    "level": 2,
+    "source": "wikipedia",
+    "source_url": "https://en.wikipedia.org/wiki/List_of_emerging_technologies"
+  },
+  {
+    "id": "neuroprosthetics",
+    "parent_id": "transport_technology",
+    "name": "Neuroprosthetics",
+    "names": {
+      "en": "Neuroprosthetics",
+      "vi": "Neuroprosthetics"
+    },
+    "synonyms": {
+      "en": [],
+      "vi": []
+    },
+    "types": [
+      "technology"
+    ],
+    "level": 2,
+    "source": "wikipedia",
+    "source_url": "https://en.wikipedia.org/wiki/List_of_emerging_technologies"
+  },
+  {
+    "id": "sonogenetics",
+    "parent_id": "transport_technology",
+    "name": "Sonogenetics",
+    "names": {
+      "en": "Sonogenetics",
+      "vi": "Sonogenetics"
+    },
+    "synonyms": {
+      "en": [],
+      "vi": []
+    },
+    "types": [
+      "technology"
+    ],
+    "level": 2,
+    "source": "wikipedia",
+    "source_url": "https://en.wikipedia.org/wiki/List_of_emerging_technologies"
+  },
+  {
+    "id": "military",
+    "parent_id": "transport_technology",
+    "name": "Military",
+    "names": {
+      "en": "Military",
+      "vi": "Military"
+    },
+    "synonyms": {
+      "en": [],
+      "vi": []
+    },
+    "types": [
+      "technology"
+    ],
+    "level": 2,
+    "source": "wikipedia",
+    "source_url": "https://en.wikipedia.org/wiki/List_of_emerging_technologies"
+  },
+  {
+    "id": "caseless_ammunition",
+    "parent_id": "transport_technology",
+    "name": "Caseless ammunition",
+    "names": {
+      "en": "Caseless ammunition",
+      "vi": "Caseless ammunition"
+    },
+    "synonyms": {
+      "en": [],
+      "vi": []
+    },
+    "types": [
+      "technology"
+    ],
+    "level": 2,
+    "source": "wikipedia",
+    "source_url": "https://en.wikipedia.org/wiki/List_of_emerging_technologies"
+  },
+  {
+    "id": "cloaking_device",
+    "parent_id": "transport_technology",
+    "name": "Cloaking device",
+    "names": {
+      "en": "Cloaking device",
+      "vi": "Cloaking device"
+    },
+    "synonyms": {
+      "en": [],
+      "vi": []
+    },
+    "types": [
+      "technology"
+    ],
+    "level": 2,
+    "source": "wikipedia",
+    "source_url": "https://en.wikipedia.org/wiki/List_of_emerging_technologies"
+  },
+  {
+    "id": "directed_energy_weapon",
+    "parent_id": "transport_technology",
+    "name": "Directed energy weapon",
+    "names": {
+      "en": "Directed energy weapon",
+      "vi": "Directed energy weapon"
+    },
+    "synonyms": {
+      "en": [],
+      "vi": []
+    },
+    "types": [
+      "technology"
+    ],
+    "level": 2,
+    "source": "wikipedia",
+    "source_url": "https://en.wikipedia.org/wiki/List_of_emerging_technologies"
+  },
+  {
+    "id": "electrolaser",
+    "parent_id": "transport_technology",
+    "name": "Electrolaser",
+    "names": {
+      "en": "Electrolaser",
+      "vi": "Electrolaser"
+    },
+    "synonyms": {
+      "en": [],
+      "vi": []
+    },
+    "types": [
+      "technology"
+    ],
+    "level": 2,
+    "source": "wikipedia",
+    "source_url": "https://en.wikipedia.org/wiki/List_of_emerging_technologies"
+  },
+  {
+    "id": "electromagnetic_weapons",
+    "parent_id": "transport_technology",
+    "name": "Electromagnetic weapons",
+    "names": {
+      "en": "Electromagnetic weapons",
+      "vi": "Electromagnetic weapons"
+    },
+    "synonyms": {
+      "en": [],
+      "vi": []
+    },
+    "types": [
+      "technology"
+    ],
+    "level": 2,
+    "source": "wikipedia",
+    "source_url": "https://en.wikipedia.org/wiki/List_of_emerging_technologies"
+  },
+  {
+    "id": "electrothermal_chemical_technology",
+    "parent_id": "transport_technology",
+    "name": "Electrothermal-chemical technology",
+    "names": {
+      "en": "Electrothermal-chemical technology",
+      "vi": "Electrothermal-chemical technology"
+    },
+    "synonyms": {
+      "en": [],
+      "vi": []
+    },
+    "types": [
+      "technology"
+    ],
+    "level": 2,
+    "source": "wikipedia",
+    "source_url": "https://en.wikipedia.org/wiki/List_of_emerging_technologies"
+  },
+  {
+    "id": "force_field",
+    "parent_id": "transport_technology",
+    "name": "Force field",
+    "names": {
+      "en": "Force field",
+      "vi": "Force field"
+    },
+    "synonyms": {
+      "en": [],
+      "vi": []
+    },
+    "types": [
+      "technology"
+    ],
+    "level": 2,
+    "source": "wikipedia",
+    "source_url": "https://en.wikipedia.org/wiki/List_of_emerging_technologies"
+  },
+  {
+    "id": "green_bullet",
+    "parent_id": "transport_technology",
+    "name": "Green bullet",
+    "names": {
+      "en": "Green bullet",
+      "vi": "Green bullet"
+    },
+    "synonyms": {
+      "en": [],
+      "vi": []
+    },
+    "types": [
+      "technology"
+    ],
+    "level": 2,
+    "source": "wikipedia",
+    "source_url": "https://en.wikipedia.org/wiki/List_of_emerging_technologies"
+  },
+  {
+    "id": "hypersonic_cruise_missile",
+    "parent_id": "transport_technology",
+    "name": "Hypersonic cruise missile",
+    "names": {
+      "en": "Hypersonic cruise missile",
+      "vi": "Hypersonic cruise missile"
+    },
+    "synonyms": {
+      "en": [],
+      "vi": []
+    },
+    "types": [
+      "technology"
+    ],
+    "level": 2,
+    "source": "wikipedia",
+    "source_url": "https://en.wikipedia.org/wiki/List_of_emerging_technologies"
+  },
+  {
+    "id": "laser_weapon",
+    "parent_id": "transport_technology",
+    "name": "Laser weapon",
+    "names": {
+      "en": "Laser weapon",
+      "vi": "Laser weapon"
+    },
+    "synonyms": {
+      "en": [],
+      "vi": []
+    },
+    "types": [
+      "technology"
+    ],
+    "level": 2,
+    "source": "wikipedia",
+    "source_url": "https://en.wikipedia.org/wiki/List_of_emerging_technologies"
+  },
+  {
+    "id": "mahem",
+    "parent_id": "transport_technology",
+    "name": "MAHEM",
+    "names": {
+      "en": "MAHEM",
+      "vi": "MAHEM"
+    },
+    "synonyms": {
+      "en": [],
+      "vi": []
+    },
+    "types": [
+      "technology"
+    ],
+    "level": 2,
+    "source": "wikipedia",
+    "source_url": "https://en.wikipedia.org/wiki/List_of_emerging_technologies"
+  },
+  {
+    "id": "particle_beam_weapon",
+    "parent_id": "transport_technology",
+    "name": "Particle-beam weapon",
+    "names": {
+      "en": "Particle-beam weapon",
+      "vi": "Particle-beam weapon"
+    },
+    "synonyms": {
+      "en": [],
+      "vi": []
+    },
+    "types": [
+      "technology"
+    ],
+    "level": 2,
+    "source": "wikipedia",
+    "source_url": "https://en.wikipedia.org/wiki/List_of_emerging_technologies"
+  },
+  {
+    "id": "plasma_weapon",
+    "parent_id": "transport_technology",
+    "name": "Plasma weapon",
+    "names": {
+      "en": "Plasma weapon",
+      "vi": "Plasma weapon"
+    },
+    "synonyms": {
+      "en": [],
+      "vi": []
+    },
+    "types": [
+      "technology"
+    ],
+    "level": 2,
+    "source": "wikipedia",
+    "source_url": "https://en.wikipedia.org/wiki/List_of_emerging_technologies"
+  },
+  {
+    "id": "precision_guided_firearm",
+    "parent_id": "transport_technology",
+    "name": "Precision-guided firearm",
+    "names": {
+      "en": "Precision-guided firearm",
+      "vi": "Precision-guided firearm"
+    },
+    "synonyms": {
+      "en": [],
+      "vi": []
+    },
+    "types": [
+      "technology"
+    ],
+    "level": 2,
+    "source": "wikipedia",
+    "source_url": "https://en.wikipedia.org/wiki/List_of_emerging_technologies"
+  },
+  {
+    "id": "pure_fusion_weapon",
+    "parent_id": "transport_technology",
+    "name": "Pure fusion weapon",
+    "names": {
+      "en": "Pure fusion weapon",
+      "vi": "Pure fusion weapon"
+    },
+    "synonyms": {
+      "en": [],
+      "vi": []
+    },
+    "types": [
+      "technology"
+    ],
+    "level": 2,
+    "source": "wikipedia",
+    "source_url": "https://en.wikipedia.org/wiki/List_of_emerging_technologies"
+  },
+  {
+    "id": "sonic_weapon",
+    "parent_id": "transport_technology",
+    "name": "Sonic weapon",
+    "names": {
+      "en": "Sonic weapon",
+      "vi": "Sonic weapon"
+    },
+    "synonyms": {
+      "en": [],
+      "vi": []
+    },
+    "types": [
+      "technology"
+    ],
+    "level": 2,
+    "source": "wikipedia",
+    "source_url": "https://en.wikipedia.org/wiki/List_of_emerging_technologies"
+  },
+  {
+    "id": "stealth_technology",
+    "parent_id": "transport_technology",
+    "name": "Stealth technology",
+    "names": {
+      "en": "Stealth technology",
+      "vi": "Stealth technology"
+    },
+    "synonyms": {
+      "en": [],
+      "vi": []
+    },
+    "types": [
+      "technology"
+    ],
+    "level": 2,
+    "source": "wikipedia",
+    "source_url": "https://en.wikipedia.org/wiki/List_of_emerging_technologies"
+  },
+  {
+    "id": "telescoped_ammunition",
+    "parent_id": "transport_technology",
+    "name": "Telescoped ammunition",
+    "names": {
+      "en": "Telescoped ammunition",
+      "vi": "Telescoped ammunition"
+    },
+    "synonyms": {
+      "en": [],
+      "vi": []
+    },
+    "types": [
+      "technology"
+    ],
+    "level": 2,
+    "source": "wikipedia",
+    "source_url": "https://en.wikipedia.org/wiki/List_of_emerging_technologies"
+  },
+  {
+    "id": "lightweight_small_arms_technologies_program",
+    "parent_id": "transport_technology",
+    "name": "Lightweight Small Arms Technologies Program",
+    "names": {
+      "en": "Lightweight Small Arms Technologies Program",
+      "vi": "Lightweight Small Arms Technologies Program"
+    },
+    "synonyms": {
+      "en": [],
+      "vi": []
+    },
+    "types": [
+      "technology"
+    ],
+    "level": 2,
+    "source": "wikipedia",
+    "source_url": "https://en.wikipedia.org/wiki/List_of_emerging_technologies"
+  },
+  {
+    "id": "space",
+    "parent_id": "transport_technology",
+    "name": "Space",
+    "names": {
+      "en": "Space",
+      "vi": "Space"
+    },
+    "synonyms": {
+      "en": [],
+      "vi": []
+    },
+    "types": [
+      "technology"
+    ],
+    "level": 2,
+    "source": "wikipedia",
+    "source_url": "https://en.wikipedia.org/wiki/List_of_emerging_technologies"
+  },
+  {
+    "id": "artificial_gravity",
+    "parent_id": "transport_technology",
+    "name": "Artificial gravity",
+    "names": {
+      "en": "Artificial gravity",
+      "vi": "Artificial gravity"
+    },
+    "synonyms": {
+      "en": [],
+      "vi": []
+    },
+    "types": [
+      "technology"
+    ],
+    "level": 2,
+    "source": "wikipedia",
+    "source_url": "https://en.wikipedia.org/wiki/List_of_emerging_technologies"
+  },
+  {
+    "id": "asteroid_mining",
+    "parent_id": "transport_technology",
+    "name": "Asteroid mining",
+    "names": {
+      "en": "Asteroid mining",
+      "vi": "Asteroid mining"
+    },
+    "synonyms": {
+      "en": [],
+      "vi": []
+    },
+    "types": [
+      "technology"
+    ],
+    "level": 2,
+    "source": "wikipedia",
+    "source_url": "https://en.wikipedia.org/wiki/List_of_emerging_technologies"
+  },
+  {
+    "id": "hypertelescope",
+    "parent_id": "transport_technology",
+    "name": "Hypertelescope",
+    "names": {
+      "en": "Hypertelescope",
+      "vi": "Hypertelescope"
+    },
+    "synonyms": {
+      "en": [],
+      "vi": []
+    },
+    "types": [
+      "technology"
+    ],
+    "level": 2,
+    "source": "wikipedia",
+    "source_url": "https://en.wikipedia.org/wiki/List_of_emerging_technologies"
+  },
+  {
+    "id": "starshot",
+    "parent_id": "transport_technology",
+    "name": "Starshot",
+    "names": {
+      "en": "Starshot",
+      "vi": "Starshot"
+    },
+    "synonyms": {
+      "en": [],
+      "vi": []
+    },
+    "types": [
+      "technology"
+    ],
+    "level": 2,
+    "source": "wikipedia",
+    "source_url": "https://en.wikipedia.org/wiki/List_of_emerging_technologies"
+  },
+  {
+    "id": "solar\u00a0gravitational\u00a0lens",
+    "parent_id": "transport_technology",
+    "name": "Solar\u00a0gravitational\u00a0lens",
+    "names": {
+      "en": "Solar\u00a0gravitational\u00a0lens",
+      "vi": "Solar\u00a0gravitational\u00a0lens"
+    },
+    "synonyms": {
+      "en": [],
+      "vi": []
+    },
+    "types": [
+      "technology"
+    ],
+    "level": 2,
+    "source": "wikipedia",
+    "source_url": "https://en.wikipedia.org/wiki/List_of_emerging_technologies"
+  },
+  {
+    "id": "inflatable_space_habitat",
+    "parent_id": "transport_technology",
+    "name": "Inflatable space habitat",
+    "names": {
+      "en": "Inflatable space habitat",
+      "vi": "Inflatable space habitat"
+    },
+    "synonyms": {
+      "en": [],
+      "vi": []
+    },
+    "types": [
+      "technology"
+    ],
+    "level": 2,
+    "source": "wikipedia",
+    "source_url": "https://en.wikipedia.org/wiki/List_of_emerging_technologies"
+  },
+  {
+    "id": "miniaturized_satellite",
+    "parent_id": "transport_technology",
+    "name": "Miniaturized satellite",
+    "names": {
+      "en": "Miniaturized satellite",
+      "vi": "Miniaturized satellite"
+    },
+    "synonyms": {
+      "en": [],
+      "vi": []
+    },
+    "types": [
+      "technology"
+    ],
+    "level": 2,
+    "source": "wikipedia",
+    "source_url": "https://en.wikipedia.org/wiki/List_of_emerging_technologies"
+  },
+  {
+    "id": "reusable_rocket_technology_for_orbital_rockets",
+    "parent_id": "transport_technology",
+    "name": "Reusable rocket technology for orbital rockets",
+    "names": {
+      "en": "Reusable rocket technology for orbital rockets",
+      "vi": "Reusable rocket technology for orbital rockets"
+    },
+    "synonyms": {
+      "en": [],
+      "vi": []
+    },
+    "types": [
+      "technology"
+    ],
+    "level": 2,
+    "source": "wikipedia",
+    "source_url": "https://en.wikipedia.org/wiki/List_of_emerging_technologies"
+  },
+  {
+    "id": "android",
+    "parent_id": "transport_technology",
+    "name": "Android",
+    "names": {
+      "en": "Android",
+      "vi": "Android"
+    },
+    "synonyms": {
+      "en": [],
+      "vi": []
+    },
+    "types": [
+      "technology"
+    ],
+    "level": 2,
+    "source": "wikipedia",
+    "source_url": "https://en.wikipedia.org/wiki/List_of_emerging_technologies"
+  },
+  {
+    "id": "gynoid",
+    "parent_id": "transport_technology",
+    "name": "gynoid",
+    "names": {
+      "en": "gynoid",
+      "vi": "gynoid"
+    },
+    "synonyms": {
+      "en": [],
+      "vi": []
+    },
+    "types": [
+      "technology"
+    ],
+    "level": 2,
+    "source": "wikipedia",
+    "source_url": "https://en.wikipedia.org/wiki/List_of_emerging_technologies"
+  },
+  {
+    "id": "gastrobot",
+    "parent_id": "transport_technology",
+    "name": "Gastrobot",
+    "names": {
+      "en": "Gastrobot",
+      "vi": "Gastrobot"
+    },
+    "synonyms": {
+      "en": [],
+      "vi": []
+    },
+    "types": [
+      "technology"
+    ],
+    "level": 2,
+    "source": "wikipedia",
+    "source_url": "https://en.wikipedia.org/wiki/List_of_emerging_technologies"
+  },
+  {
+    "id": "molecular_nanotechnology",
+    "parent_id": "transport_technology",
+    "name": "Molecular nanotechnology",
+    "names": {
+      "en": "Molecular nanotechnology",
+      "vi": "Molecular nanotechnology"
+    },
+    "synonyms": {
+      "en": [],
+      "vi": []
+    },
+    "types": [
+      "technology"
+    ],
+    "level": 2,
+    "source": "wikipedia",
+    "source_url": "https://en.wikipedia.org/wiki/List_of_emerging_technologies"
+  },
+  {
+    "id": "nanorobotics",
+    "parent_id": "transport_technology",
+    "name": "nanorobotics",
+    "names": {
+      "en": "nanorobotics",
+      "vi": "nanorobotics"
+    },
+    "synonyms": {
+      "en": [],
+      "vi": []
+    },
+    "types": [
+      "technology"
+    ],
+    "level": 2,
+    "source": "wikipedia",
+    "source_url": "https://en.wikipedia.org/wiki/List_of_emerging_technologies"
+  },
+  {
+    "id": "powered_exoskeleton",
+    "parent_id": "transport_technology",
+    "name": "Powered exoskeleton",
+    "names": {
+      "en": "Powered exoskeleton",
+      "vi": "Powered exoskeleton"
+    },
+    "synonyms": {
+      "en": [],
+      "vi": []
+    },
+    "types": [
+      "technology"
+    ],
+    "level": 2,
+    "source": "wikipedia",
+    "source_url": "https://en.wikipedia.org/wiki/List_of_emerging_technologies"
+  },
+  {
+    "id": "self_reconfiguring_modular_robot",
+    "parent_id": "transport_technology",
+    "name": "Self-reconfiguring modular robot",
+    "names": {
+      "en": "Self-reconfiguring modular robot",
+      "vi": "Self-reconfiguring modular robot"
+    },
+    "synonyms": {
+      "en": [],
+      "vi": []
+    },
+    "types": [
+      "technology"
+    ],
+    "level": 2,
+    "source": "wikipedia",
+    "source_url": "https://en.wikipedia.org/wiki/List_of_emerging_technologies"
+  },
+  {
+    "id": "swarm_robotics",
+    "parent_id": "transport_technology",
+    "name": "Swarm robotics",
+    "names": {
+      "en": "Swarm robotics",
+      "vi": "Swarm robotics"
+    },
+    "synonyms": {
+      "en": [],
+      "vi": []
+    },
+    "types": [
+      "technology"
+    ],
+    "level": 2,
+    "source": "wikipedia",
+    "source_url": "https://en.wikipedia.org/wiki/List_of_emerging_technologies"
+  },
+  {
+    "id": "unmanned_vehicle",
+    "parent_id": "transport_technology",
+    "name": "Unmanned vehicle",
+    "names": {
+      "en": "Unmanned vehicle",
+      "vi": "Unmanned vehicle"
+    },
+    "synonyms": {
+      "en": [],
+      "vi": []
+    },
+    "types": [
+      "technology"
+    ],
+    "level": 2,
+    "source": "wikipedia",
+    "source_url": "https://en.wikipedia.org/wiki/List_of_emerging_technologies"
+  },
+  {
+    "id": "transport",
+    "parent_id": "transport_technology",
+    "name": "Transport",
+    "names": {
+      "en": "Transport",
+      "vi": "Transport"
+    },
+    "synonyms": {
+      "en": [],
+      "vi": []
+    },
+    "types": [
+      "technology"
+    ],
+    "level": 2,
+    "source": "wikipedia",
+    "source_url": "https://en.wikipedia.org/wiki/List_of_emerging_technologies"
+  },
+  {
+    "id": "airless_tire",
+    "parent_id": "transport_technology",
+    "name": "Airless tire",
+    "names": {
+      "en": "Airless tire",
+      "vi": "Airless tire"
+    },
+    "synonyms": {
+      "en": [],
+      "vi": []
+    },
+    "types": [
+      "technology"
+    ],
+    "level": 2,
+    "source": "wikipedia",
+    "source_url": "https://en.wikipedia.org/wiki/List_of_emerging_technologies"
+  },
+  {
+    "id": "alternative_fuel_vehicle",
+    "parent_id": "transport_technology",
+    "name": "Alternative fuel vehicle",
+    "names": {
+      "en": "Alternative fuel vehicle",
+      "vi": "Alternative fuel vehicle"
+    },
+    "synonyms": {
+      "en": [],
+      "vi": []
+    },
+    "types": [
+      "technology"
+    ],
+    "level": 2,
+    "source": "wikipedia",
+    "source_url": "https://en.wikipedia.org/wiki/List_of_emerging_technologies"
+  },
+  {
+    "id": "autonomous_rail_rapid_transit",
+    "parent_id": "transport_technology",
+    "name": "Autonomous Rail Rapid Transit",
+    "names": {
+      "en": "Autonomous Rail Rapid Transit",
+      "vi": "Autonomous Rail Rapid Transit"
+    },
+    "synonyms": {
+      "en": [],
+      "vi": []
+    },
+    "types": [
+      "technology"
+    ],
+    "level": 2,
+    "source": "wikipedia",
+    "source_url": "https://en.wikipedia.org/wiki/List_of_emerging_technologies"
+  },
+  {
+    "id": "beam_powered_propulsion",
+    "parent_id": "transport_technology",
+    "name": "Beam-powered propulsion",
+    "names": {
+      "en": "Beam-powered propulsion",
+      "vi": "Beam-powered propulsion"
+    },
+    "synonyms": {
+      "en": [],
+      "vi": []
+    },
+    "types": [
+      "technology"
+    ],
+    "level": 2,
+    "source": "wikipedia",
+    "source_url": "https://en.wikipedia.org/wiki/List_of_emerging_technologies"
+  },
+  {
+    "id": "electro_hydrodynamic_propulsion",
+    "parent_id": "transport_technology",
+    "name": "Electro hydrodynamic propulsion",
+    "names": {
+      "en": "Electro hydrodynamic propulsion",
+      "vi": "Electro hydrodynamic propulsion"
+    },
+    "synonyms": {
+      "en": [],
+      "vi": []
+    },
+    "types": [
+      "technology"
+    ],
+    "level": 2,
+    "source": "wikipedia",
+    "source_url": "https://en.wikipedia.org/wiki/List_of_emerging_technologies"
+  },
+  {
+    "id": "x_53_active_aeroelastic_wing",
+    "parent_id": "transport_technology",
+    "name": "X-53 Active Aeroelastic Wing",
+    "names": {
+      "en": "X-53 Active Aeroelastic Wing",
+      "vi": "X-53 Active Aeroelastic Wing"
+    },
+    "synonyms": {
+      "en": [],
+      "vi": []
+    },
+    "types": [
+      "technology"
+    ],
+    "level": 2,
+    "source": "wikipedia",
+    "source_url": "https://en.wikipedia.org/wiki/List_of_emerging_technologies"
+  },
+  {
+    "id": "adaptive_compliant_wing",
+    "parent_id": "transport_technology",
+    "name": "Adaptive Compliant Wing",
+    "names": {
+      "en": "Adaptive Compliant Wing",
+      "vi": "Adaptive Compliant Wing"
+    },
+    "synonyms": {
+      "en": [],
+      "vi": []
+    },
+    "types": [
+      "technology"
+    ],
+    "level": 2,
+    "source": "wikipedia",
+    "source_url": "https://en.wikipedia.org/wiki/List_of_emerging_technologies"
+  },
+  {
+    "id": "fluidic_flight_controls",
+    "parent_id": "transport_technology",
+    "name": "fluidic flight controls",
+    "names": {
+      "en": "fluidic flight controls",
+      "vi": "fluidic flight controls"
+    },
+    "synonyms": {
+      "en": [],
+      "vi": []
+    },
+    "types": [
+      "technology"
+    ],
+    "level": 2,
+    "source": "wikipedia",
+    "source_url": "https://en.wikipedia.org/wiki/List_of_emerging_technologies"
+  },
+  {
+    "id": "flying_car",
+    "parent_id": "transport_technology",
+    "name": "Flying car",
+    "names": {
+      "en": "Flying car",
+      "vi": "Flying car"
+    },
+    "synonyms": {
+      "en": [],
+      "vi": []
+    },
+    "types": [
+      "technology"
+    ],
+    "level": 2,
+    "source": "wikipedia",
+    "source_url": "https://en.wikipedia.org/wiki/List_of_emerging_technologies"
+  },
+  {
+    "id": "fusion_rocket",
+    "parent_id": "transport_technology",
+    "name": "Fusion rocket",
+    "names": {
+      "en": "Fusion rocket",
+      "vi": "Fusion rocket"
+    },
+    "synonyms": {
+      "en": [],
+      "vi": []
+    },
+    "types": [
+      "technology"
+    ],
+    "level": 2,
+    "source": "wikipedia",
+    "source_url": "https://en.wikipedia.org/wiki/List_of_emerging_technologies"
+  },
+  {
+    "id": "hoverbike",
+    "parent_id": "transport_technology",
+    "name": "Hoverbike",
+    "names": {
+      "en": "Hoverbike",
+      "vi": "Hoverbike"
+    },
+    "synonyms": {
+      "en": [],
+      "vi": []
+    },
+    "types": [
+      "technology"
+    ],
+    "level": 2,
+    "source": "wikipedia",
+    "source_url": "https://en.wikipedia.org/wiki/List_of_emerging_technologies"
+  },
+  {
+    "id": "hovertrain",
+    "parent_id": "transport_technology",
+    "name": "Hovertrain",
+    "names": {
+      "en": "Hovertrain",
+      "vi": "Hovertrain"
+    },
+    "synonyms": {
+      "en": [],
+      "vi": []
+    },
+    "types": [
+      "technology"
+    ],
+    "level": 2,
+    "source": "wikipedia",
+    "source_url": "https://en.wikipedia.org/wiki/List_of_emerging_technologies"
+  },
+  {
+    "id": "ground_effect_train",
+    "parent_id": "transport_technology",
+    "name": "Ground effect train",
+    "names": {
+      "en": "Ground effect train",
+      "vi": "Ground effect train"
+    },
+    "synonyms": {
+      "en": [],
+      "vi": []
+    },
+    "types": [
+      "technology"
+    ],
+    "level": 2,
+    "source": "wikipedia",
+    "source_url": "https://en.wikipedia.org/wiki/List_of_emerging_technologies"
+  },
+  {
+    "id": "high_altitude_platforms",
+    "parent_id": "transport_technology",
+    "name": "High Altitude Platforms",
+    "names": {
+      "en": "High Altitude Platforms",
+      "vi": "High Altitude Platforms"
+    },
+    "synonyms": {
+      "en": [],
+      "vi": []
+    },
+    "types": [
+      "technology"
+    ],
+    "level": 2,
+    "source": "wikipedia",
+    "source_url": "https://en.wikipedia.org/wiki/List_of_emerging_technologies"
+  },
+  {
+    "id": "jet_pack",
+    "parent_id": "transport_technology",
+    "name": "Jet pack",
+    "names": {
+      "en": "Jet pack",
+      "vi": "Jet pack"
+    },
+    "synonyms": {
+      "en": [],
+      "vi": []
+    },
+    "types": [
+      "technology"
+    ],
+    "level": 2,
+    "source": "wikipedia",
+    "source_url": "https://en.wikipedia.org/wiki/List_of_emerging_technologies"
+  },
+  {
+    "id": "backpack_helicopter",
+    "parent_id": "transport_technology",
+    "name": "backpack helicopter",
+    "names": {
+      "en": "backpack helicopter",
+      "vi": "backpack helicopter"
+    },
+    "synonyms": {
+      "en": [],
+      "vi": []
+    },
+    "types": [
+      "technology"
+    ],
+    "level": 2,
+    "source": "wikipedia",
+    "source_url": "https://en.wikipedia.org/wiki/List_of_emerging_technologies"
+  },
+  {
+    "id": "maglev_train",
+    "parent_id": "transport_technology",
+    "name": "Maglev train",
+    "names": {
+      "en": "Maglev train",
+      "vi": "Maglev train"
+    },
+    "synonyms": {
+      "en": [],
+      "vi": []
+    },
+    "types": [
+      "technology"
+    ],
+    "level": 2,
+    "source": "wikipedia",
+    "source_url": "https://en.wikipedia.org/wiki/List_of_emerging_technologies"
+  },
+  {
+    "id": "vactrain",
+    "parent_id": "transport_technology",
+    "name": "Vactrain",
+    "names": {
+      "en": "Vactrain",
+      "vi": "Vactrain"
+    },
+    "synonyms": {
+      "en": [],
+      "vi": []
+    },
+    "types": [
+      "technology"
+    ],
+    "level": 2,
+    "source": "wikipedia",
+    "source_url": "https://en.wikipedia.org/wiki/List_of_emerging_technologies"
+  },
+  {
+    "id": "magnetic_levitation",
+    "parent_id": "transport_technology",
+    "name": "Magnetic levitation",
+    "names": {
+      "en": "Magnetic levitation",
+      "vi": "Magnetic levitation"
+    },
+    "synonyms": {
+      "en": [],
+      "vi": []
+    },
+    "types": [
+      "technology"
+    ],
+    "level": 2,
+    "source": "wikipedia",
+    "source_url": "https://en.wikipedia.org/wiki/List_of_emerging_technologies"
+  },
+  {
+    "id": "mass_driver",
+    "parent_id": "transport_technology",
+    "name": "Mass driver",
+    "names": {
+      "en": "Mass driver",
+      "vi": "Mass driver"
+    },
+    "synonyms": {
+      "en": [],
+      "vi": []
+    },
+    "types": [
+      "technology"
+    ],
+    "level": 2,
+    "source": "wikipedia",
+    "source_url": "https://en.wikipedia.org/wiki/List_of_emerging_technologies"
+  },
+  {
+    "id": "nuclear_photonic_rocket",
+    "parent_id": "transport_technology",
+    "name": "Nuclear photonic rocket",
+    "names": {
+      "en": "Nuclear photonic rocket",
+      "vi": "Nuclear photonic rocket"
+    },
+    "synonyms": {
+      "en": [],
+      "vi": []
+    },
+    "types": [
+      "technology"
+    ],
+    "level": 2,
+    "source": "wikipedia",
+    "source_url": "https://en.wikipedia.org/wiki/List_of_emerging_technologies"
+  },
+  {
+    "id": "personal_rapid_transit",
+    "parent_id": "transport_technology",
+    "name": "Personal rapid transit",
+    "names": {
+      "en": "Personal rapid transit",
+      "vi": "Personal rapid transit"
+    },
+    "synonyms": {
+      "en": [],
+      "vi": []
+    },
+    "types": [
+      "technology"
+    ],
+    "level": 2,
+    "source": "wikipedia",
+    "source_url": "https://en.wikipedia.org/wiki/List_of_emerging_technologies"
+  },
+  {
+    "id": "photon_rocket",
+    "parent_id": "transport_technology",
+    "name": "Photon rocket",
+    "names": {
+      "en": "Photon rocket",
+      "vi": "Photon rocket"
+    },
+    "synonyms": {
+      "en": [],
+      "vi": []
+    },
+    "types": [
+      "technology"
+    ],
+    "level": 2,
+    "source": "wikipedia",
+    "source_url": "https://en.wikipedia.org/wiki/List_of_emerging_technologies"
+  },
+  {
+    "id": "physical_internet",
+    "parent_id": "transport_technology",
+    "name": "Physical Internet",
+    "names": {
+      "en": "Physical Internet",
+      "vi": "Physical Internet"
+    },
+    "synonyms": {
+      "en": [],
+      "vi": []
+    },
+    "types": [
+      "technology"
+    ],
+    "level": 2,
+    "source": "wikipedia",
+    "source_url": "https://en.wikipedia.org/wiki/List_of_emerging_technologies"
+  },
+  {
+    "id": "scooter_sharing_system",
+    "parent_id": "transport_technology",
+    "name": "Scooter-sharing system",
+    "names": {
+      "en": "Scooter-sharing system",
+      "vi": "Scooter-sharing system"
+    },
+    "synonyms": {
+      "en": [],
+      "vi": []
+    },
+    "types": [
+      "technology"
+    ],
+    "level": 2,
+    "source": "wikipedia",
+    "source_url": "https://en.wikipedia.org/wiki/List_of_emerging_technologies"
+  },
+  {
+    "id": "vactrain",
+    "parent_id": "transport_technology",
+    "name": "Vactrain",
+    "names": {
+      "en": "Vactrain",
+      "vi": "Vactrain"
+    },
+    "synonyms": {
+      "en": [],
+      "vi": []
+    },
+    "types": [
+      "technology"
+    ],
+    "level": 2,
+    "source": "wikipedia",
+    "source_url": "https://en.wikipedia.org/wiki/List_of_emerging_technologies"
+  },
+  {
+    "id": "propellant_depot",
+    "parent_id": "transport_technology",
+    "name": "Propellant depot",
+    "names": {
+      "en": "Propellant depot",
+      "vi": "Propellant depot"
+    },
+    "synonyms": {
+      "en": [],
+      "vi": []
+    },
+    "types": [
+      "technology"
+    ],
+    "level": 2,
+    "source": "wikipedia",
+    "source_url": "https://en.wikipedia.org/wiki/List_of_emerging_technologies"
+  },
+  {
+    "id": "pulse_detonation_engine",
+    "parent_id": "transport_technology",
+    "name": "Pulse detonation engine",
+    "names": {
+      "en": "Pulse detonation engine",
+      "vi": "Pulse detonation engine"
+    },
+    "synonyms": {
+      "en": [],
+      "vi": []
+    },
+    "types": [
+      "technology"
+    ],
+    "level": 2,
+    "source": "wikipedia",
+    "source_url": "https://en.wikipedia.org/wiki/List_of_emerging_technologies"
+  },
+  {
+    "id": "reusable_launch_system",
+    "parent_id": "transport_technology",
+    "name": "Reusable launch system",
+    "names": {
+      "en": "Reusable launch system",
+      "vi": "Reusable launch system"
+    },
+    "synonyms": {
+      "en": [],
+      "vi": []
+    },
+    "types": [
+      "technology"
+    ],
+    "level": 2,
+    "source": "wikipedia",
+    "source_url": "https://en.wikipedia.org/wiki/List_of_emerging_technologies"
+  },
+  {
+    "id": "self_driving_car",
+    "parent_id": "transport_technology",
+    "name": "Self-driving car",
+    "names": {
+      "en": "Self-driving car",
+      "vi": "Self-driving car"
+    },
+    "synonyms": {
+      "en": [],
+      "vi": []
+    },
+    "types": [
+      "technology"
+    ],
+    "level": 2,
+    "source": "wikipedia",
+    "source_url": "https://en.wikipedia.org/wiki/List_of_emerging_technologies"
+  },
+  {
+    "id": "space_elevator",
+    "parent_id": "transport_technology",
+    "name": "Space elevator",
+    "names": {
+      "en": "Space elevator",
+      "vi": "Space elevator"
+    },
+    "synonyms": {
+      "en": [],
+      "vi": []
+    },
+    "types": [
+      "technology"
+    ],
+    "level": 2,
+    "source": "wikipedia",
+    "source_url": "https://en.wikipedia.org/wiki/List_of_emerging_technologies"
+  },
+  {
+    "id": "spaceplane",
+    "parent_id": "transport_technology",
+    "name": "Spaceplane",
+    "names": {
+      "en": "Spaceplane",
+      "vi": "Spaceplane"
+    },
+    "synonyms": {
+      "en": [],
+      "vi": []
+    },
+    "types": [
+      "technology"
+    ],
+    "level": 2,
+    "source": "wikipedia",
+    "source_url": "https://en.wikipedia.org/wiki/List_of_emerging_technologies"
+  },
+  {
+    "id": "supersonic_transport",
+    "parent_id": "transport_technology",
+    "name": "Supersonic transport",
+    "names": {
+      "en": "Supersonic transport",
+      "vi": "Supersonic transport"
+    },
+    "synonyms": {
+      "en": [],
+      "vi": []
+    },
+    "types": [
+      "technology"
+    ],
+    "level": 2,
+    "source": "wikipedia",
+    "source_url": "https://en.wikipedia.org/wiki/List_of_emerging_technologies"
+  },
+  {
+    "id": "vehicular_communication_systems",
+    "parent_id": "transport_technology",
+    "name": "Vehicular communication systems",
+    "names": {
+      "en": "Vehicular communication systems",
+      "vi": "Vehicular communication systems"
+    },
+    "synonyms": {
+      "en": [],
+      "vi": []
+    },
+    "types": [
+      "technology"
+    ],
+    "level": 2,
+    "source": "wikipedia",
+    "source_url": "https://en.wikipedia.org/wiki/List_of_emerging_technologies"
+  }
+]
